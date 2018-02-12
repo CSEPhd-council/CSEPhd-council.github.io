@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on CSE PhD council</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on CSE PhD council</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright 2017 CSE PhD council</copyright>
+    <lastBuildDate>Fri, 24 Nov 2017 14:17:25 +0100</lastBuildDate>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bye Pack</title>
+      <link>/categories/bye-pack/</link>
+      <pubDate>Fri, 24 Nov 2017 14:17:25 +0100</pubDate>
+      
+      <guid>/categories/bye-pack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro Pack</title>
+      <link>/categories/intro-pack/</link>
+      <pubDate>Fri, 24 Nov 2017 14:17:25 +0100</pubDate>
+      
+      <guid>/categories/intro-pack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mid Pack</title>
+      <link>/categories/mid-pack/</link>
+      <pubDate>Fri, 24 Nov 2017 14:17:25 +0100</pubDate>
+      
+      <guid>/categories/mid-pack/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
