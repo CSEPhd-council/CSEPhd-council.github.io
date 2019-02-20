@@ -6,242 +6,13 @@
     <description>Recent content in Document on CSE PhD council</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright 2019 CSE PhD council</copyright>
+    <lastBuildDate>Wed, 20 Feb 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://csephd-council.github.io/tags/document/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Benefits</title>
-      <link>https://csephd-council.github.io/posts/benefits/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://csephd-council.github.io/posts/benefits/</guid>
-      <description>
-
-&lt;h2 id=&#34;gym-massage-expense-refund-lrs:daad289832f4e1cf86c61f1447a55b08&#34;&gt;Gym &amp;amp; massage expense refund (LRS)&lt;/h2&gt;
-
-&lt;p&gt;As a Chalmers employee you have the right to be refunded for up to 2000SEK/year for expenses related to health and wellness.
-This is called &lt;a href=&#34;https://www.benify.se/fps/welcomeCustomer.do?nav.id=520&#34;&gt;Benify&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;how-to-claim-expenses-and-be-refund:daad289832f4e1cf86c61f1447a55b08&#34;&gt;How to claim expenses and be refund&lt;/h1&gt;
-
-&lt;pre&gt;&lt;code&gt;- go to [insidan](http://www.chalmers.se/insidan) 
-- on the right-most column select *Chalmers Plus* in the menu under &#39;E-tjanst&#39;, clic *visa*
-- insert CID and CID-password
-- click on &#39;wellness receipts&#39;
-- follow instruction on how to register a receipt (useful instructions in english also under &#39;How do I register my expenses?&#39;
-- print the form and attach your original receipt
-- send it to LRS using an envelop in the post room (put it in the outgoing internal mail pile)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;chalmers-discounts:daad289832f4e1cf86c61f1447a55b08&#34;&gt;Chalmers discounts&lt;/h2&gt;
-
-&lt;p&gt;As a Chalmers employee you can use &lt;a href=&#34;http://plus.portal.chalmers.se/&#34;&gt;Chalmers Plus&lt;/a&gt; services which guarantee you discounts on several goods and services such as:
-car rentals, travel trolleys, hi-fi devices, Apple computers&amp;hellip;&lt;/p&gt;
-
-&lt;h2 id=&#34;mecenat:daad289832f4e1cf86c61f1447a55b08&#34;&gt;Mecenat&lt;/h2&gt;
-
-&lt;p&gt;The &lt;a href=&#34;https://mecenat.com/se/om-mecenat/vara-kort&#34;&gt;Mecenat&lt;/a&gt; card gives you access to more student discount (than just the DS card). Very useful, keep track of sales with the app!
-(Apple, Swebus, Comviq, Tele2, Tre, SF Cinema, Adlibris, &amp;hellip;)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Certificates</title>
-      <link>https://csephd-council.github.io/posts/certificates/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://csephd-council.github.io/posts/certificates/</guid>
-      <description>
-
-&lt;h2 id=&#34;list-of-passed-courses-and-certificate:fb36cadfa0db392b180ac2fcbfe2d7be&#34;&gt;List of passed courses and certificate&lt;/h2&gt;
-
-&lt;p&gt;Holding a list of passed courses is useful when applying for scholarship, and to submit your Licentiate / PhD defence request.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://student.portal.chalmers.se/en/chalmersstudies/Pages/services.aspx&#34;&gt;Student portal&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Emails</title>
-      <link>https://csephd-council.github.io/posts/email/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://csephd-council.github.io/posts/email/</guid>
-      <description>
-
-&lt;h2 id=&#34;setting-up-your-chalmers-email-account:8cbe6fdacc355e0e29b05b303dd46e82&#34;&gt;Setting up your Chalmers email account&lt;/h2&gt;
-
-&lt;h1 id=&#34;imap:8cbe6fdacc355e0e29b05b303dd46e82&#34;&gt;IMAP&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;imap.chalmers.se - port: 993&lt;/li&gt;
-&lt;li&gt;username : CID&lt;/li&gt;
-&lt;li&gt;Auth method: CID password&lt;/li&gt;
-&lt;li&gt;Connection: SSL/TLS
-// Note : Thunderbird test doesn&amp;rsquo;t work correctly.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;smtp:8cbe6fdacc355e0e29b05b303dd46e82&#34;&gt;SMTP&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;smtp.chalmers.se : 587&lt;/li&gt;
-&lt;li&gt;username : CID&lt;/li&gt;
-&lt;li&gt;Auth method: NTLM (TLS also works)&lt;/li&gt;
-&lt;li&gt;Connection: STARTTLS (if required)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;ios:8cbe6fdacc355e0e29b05b303dd46e82&#34;&gt;iOS&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://it.portal.chalmers.se/itportal/MobilSurfPlattaApple/Epost&#34;&gt;Detail setting from IT portal&lt;/a&gt;
-- Select Exchange account
-- On the first page, use &amp;lsquo;CID@chalmers.se&amp;rsquo;
-- Domain: NET
-- Server: webmail.chalmers.se
-// Note: if you found some information page from Chalmers website saying the server &amp;ldquo;m.outlook.com&amp;rdquo;, that is intended for Chalmers student&lt;/p&gt;
-
-&lt;h1 id=&#34;thunderbird-outlook-exchange-integration:8cbe6fdacc355e0e29b05b303dd46e82&#34;&gt;Thunderbird/Outlook/Exchange integration&lt;/h1&gt;
-
-&lt;p&gt;Tools -&amp;gt; addon -&amp;gt; &amp;ldquo;Lightning&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/Ericsson/exchangecalendar/releases&#34;&gt;Exchange calendar&lt;/a&gt; Get direct access to Chalmers ldap contacts in thunderbird using this extension&lt;/p&gt;
-
-&lt;h1 id=&#34;free-commercial-services:8cbe6fdacc355e0e29b05b303dd46e82&#34;&gt;Free commercial services&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sharelatex.com/&#34;&gt;Sharelatex&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://bitbucket.com&#34;&gt;Bitbucket&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://github.com&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://box.com&#34;&gt;Box&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://prezi.com&#34;&gt;Prezi&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Exams</title>
-      <link>https://csephd-council.github.io/posts/exams/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://csephd-council.github.io/posts/exams/</guid>
-      <description>
-
-&lt;h2 id=&#34;exam-registration-check-registered-credits:b01aff9b2f61ca17d0c7c4979617efe1&#34;&gt;Exam Registration / Check registered credits&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;go to the &lt;a href=&#34;https://student.portal.chalmers.se/doctoralportal/handbook/Doctoral%20degree%20certificate/Pages/default.aspx&#34;&gt;Doctoral Portal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;click on &amp;ldquo;Login&amp;rdquo; (written in blue in the greyish submenu bar on the top of the page)&lt;/li&gt;
-&lt;li&gt;enter your cid + password&lt;/li&gt;
-&lt;li&gt;click on: &amp;ldquo;Examination, sign-up/cancel sign up&amp;rdquo; / &amp;ldquo;Create transcript of records, postgraduate studies&amp;rdquo;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;(important : make sure you are in the Doctoral Portal! If you end up in the Student Portal &amp;ldquo;your account doesn&amp;rsquo;t have permission to use the service”)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;course-schedules-room-info:b01aff9b2f61ca17d0c7c4979617efe1&#34;&gt;Course schedules, room info&lt;/h2&gt;
-
-&lt;p&gt;In &lt;a href=&#34;https://se.timeedit.net/web/chalmers/db1/public/##&#34;&gt;Time-edit&lt;/a&gt; you can find information on &lt;em&gt;when&lt;/em&gt; and &lt;em&gt;where&lt;/em&gt; a course is given at Chalmers&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Internet</title>
-      <link>https://csephd-council.github.io/posts/internet/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://csephd-council.github.io/posts/internet/</guid>
-      <description>
-
-&lt;h2 id=&#34;wireless-access-to-eduroam:45a0c704d269403982586c1ba79355be&#34;&gt;Wireless access to eduroam&lt;/h2&gt;
-
-&lt;p&gt;There is an installer in &lt;a href=&#34;https://cat.eduroam.org/&#34;&gt;eduroam website&lt;/a&gt; (even for Linux) that embedded the eduroam certificate.&lt;/p&gt;
-
-&lt;h1 id=&#34;manual-setup:45a0c704d269403982586c1ba79355be&#34;&gt;Manual setup&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Login ID: CID@chalmers.se&lt;/li&gt;
-&lt;li&gt;Anonymous ID: empty&lt;/li&gt;
-&lt;li&gt;Password: CID password&lt;/li&gt;
-&lt;li&gt;Authentication: MSCHAPv2&lt;/li&gt;
-&lt;li&gt;EAP type: PEAP&lt;/li&gt;
-&lt;li&gt;Eduroam certificate is in eduroam.pem&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;change-password-for-cid-nomad:45a0c704d269403982586c1ba79355be&#34;&gt;Change password for CID / NOMAD&lt;/h2&gt;
-
-&lt;p&gt;Go to&lt;a href=&#34;http://cdks.chalmers.se&#34;&gt;CDKS&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;home-directory-of-remote-servers:45a0c704d269403982586c1ba79355be&#34;&gt;Home directory of remote servers&lt;/h2&gt;
-
-&lt;p&gt;You have a limited (but large) space at Chalmers servers just for you!
-- enter in your Termial
-- type &amp;lsquo;ssh -X CID@remote12.chalmers.se/users/CID&amp;rsquo;
-there you are
-- to copy file use the secure copy command:
-scp (add &amp;ldquo;-r&amp;rdquo; if it is a directory) &lt;em&gt;path where from&lt;/em&gt;    CIDp@remote12.chalmers.se:/&lt;em&gt;path where to&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;web-space:45a0c704d269403982586c1ba79355be&#34;&gt;Web space&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;/chalmers/users/CID/www/www.cse.chalmers.se&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cse.chalmers.se/~CID/&#34;&gt;http://www.cse.chalmers.se/~CID/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;permissions:45a0c704d269403982586c1ba79355be&#34;&gt;Permissions&lt;/h1&gt;
-
-&lt;p&gt;Sometimes after editing a file in your web directory if will become inaccessible from the web.
-This script applies the right permissions to everything.
-Run from within your &lt;code&gt;www&lt;/code&gt; directory.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;#!/bin/bash
-CONF=/chalmers/sw/sup64/fix_personal_www_rights-1.1/etc
-find www.cse.chalmers.se -type d                -print0 | xargs -r -0 nfs4_setfacl -S ${CONF}/dir.acl
-find www.cse.chalmers.se -type f   -perm /ugo+x -print0 | xargs -r -0 nfs4_setfacl -S ${CONF}/xfile.acl
-find www.cse.chalmers.se -type f ! -perm /ugo+x -print0 | xargs -r -0 nfs4_setfacl -S ${CONF}/file.acl
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;(Source: Patrick Forsberg, private email 2013-12-18)&lt;/p&gt;
-
-&lt;h2 id=&#34;working-remotely-via-ssh-servers:45a0c704d269403982586c1ba79355be&#34;&gt;Working remotely via SSH servers&lt;/h2&gt;
-
-&lt;p&gt;VPN, SSH can be used to work remotely while keeping your access to chalmers resources, restricted articles and libraries.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://student.portal.chalmers.se/en/contactservice/ITServices/self-administered/Sidor/default.aspx&#34;&gt;self-administered&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;ssh CID@remote12.chalmers.se&lt;/li&gt;
-&lt;li&gt;ssh CID@remote2.student.chalmers.se&lt;/li&gt;
-&lt;li&gt;ssh CID@remote11.chalmers.se&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;If you do not want to reenter your password all the time, add
-the following two lines to the corresponding entries in &lt;code&gt;$HOME/.ssh/config&lt;/code&gt;:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;     GSSAPIAuthentication yes
-     GSSAPIDelegateCredentials yes
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;After that, having a valid Kerberos ticket will suffice to log in.&lt;/p&gt;
-
-&lt;p&gt;A more lightweight solution is to use sshuttle (&lt;a href=&#34;https://github.com/apenwarr/sshuttle&#34;&gt;https://github.com/apenwarr/sshuttle&lt;/a&gt;).
-Running the following command will automatically tunnel all TCP connections and
-DNS requests through the chalmers network:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;sshuttle -r remote11.chalmers.se 0/0
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;windows-servers-via-remote-desktop:45a0c704d269403982586c1ba79355be&#34;&gt;Windows servers via remote desktop&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;rdesktop remote.cda.chalmers.se&lt;/li&gt;
-&lt;li&gt;login name: NET\CID or CID@net.chalmers.se&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This is specially useful for using Microsoft office (Word, powerpoint, Silverlight and IE!!)&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Intro Package</title>
       <link>https://csephd-council.github.io/posts/intropackage/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://csephd-council.github.io/posts/intropackage/</guid>
       <description>
@@ -604,6 +375,236 @@ can be obtained by running &lt;code&gt;kinit $YOUR_CID&lt;/code&gt;&lt;/p&gt;
 &lt;li&gt;Hamid Ebadi&lt;/li&gt;
 &lt;li&gt;Daniel Schoepe&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Benefits</title>
+      <link>https://csephd-council.github.io/posts/benefits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://csephd-council.github.io/posts/benefits/</guid>
+      <description>
+
+&lt;h2 id=&#34;gym-massage-expense-refund-lrs:daad289832f4e1cf86c61f1447a55b08&#34;&gt;Gym &amp;amp; massage expense refund (LRS)&lt;/h2&gt;
+
+&lt;p&gt;As a Chalmers employee you have the right to be refunded for up to 2000SEK/year for expenses related to health and wellness.
+This is called &lt;a href=&#34;https://www.benify.se/fps/welcomeCustomer.do?nav.id=520&#34;&gt;Benify&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;how-to-claim-expenses-and-be-refund:daad289832f4e1cf86c61f1447a55b08&#34;&gt;How to claim expenses and be refund&lt;/h1&gt;
+
+&lt;pre&gt;&lt;code&gt;- go to [insidan](http://www.chalmers.se/insidan) 
+- on the right-most column select *Chalmers Plus* in the menu under &#39;E-tjanst&#39;, clic *visa*
+- insert CID and CID-password
+- click on &#39;wellness receipts&#39;
+- follow instruction on how to register a receipt (useful instructions in english also under &#39;How do I register my expenses?&#39;
+- print the form and attach your original receipt
+- send it to LRS using an envelop in the post room (put it in the outgoing internal mail pile)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;chalmers-discounts:daad289832f4e1cf86c61f1447a55b08&#34;&gt;Chalmers discounts&lt;/h2&gt;
+
+&lt;p&gt;As a Chalmers employee you can use &lt;a href=&#34;http://plus.portal.chalmers.se/&#34;&gt;Chalmers Plus&lt;/a&gt; services which guarantee you discounts on several goods and services such as:
+car rentals, travel trolleys, hi-fi devices, Apple computers&amp;hellip;&lt;/p&gt;
+
+&lt;h2 id=&#34;mecenat:daad289832f4e1cf86c61f1447a55b08&#34;&gt;Mecenat&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://mecenat.com/se/om-mecenat/vara-kort&#34;&gt;Mecenat&lt;/a&gt; card gives you access to more student discount (than just the DS card). Very useful, keep track of sales with the app!
+(Apple, Swebus, Comviq, Tele2, Tre, SF Cinema, Adlibris, &amp;hellip;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Certificates</title>
+      <link>https://csephd-council.github.io/posts/certificates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://csephd-council.github.io/posts/certificates/</guid>
+      <description>
+
+&lt;h2 id=&#34;list-of-passed-courses-and-certificate:fb36cadfa0db392b180ac2fcbfe2d7be&#34;&gt;List of passed courses and certificate&lt;/h2&gt;
+
+&lt;p&gt;Holding a list of passed courses is useful when applying for scholarship, and to submit your Licentiate / PhD defence request.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://student.portal.chalmers.se/en/chalmersstudies/Pages/services.aspx&#34;&gt;Student portal&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Emails</title>
+      <link>https://csephd-council.github.io/posts/email/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://csephd-council.github.io/posts/email/</guid>
+      <description>
+
+&lt;h2 id=&#34;setting-up-your-chalmers-email-account:8cbe6fdacc355e0e29b05b303dd46e82&#34;&gt;Setting up your Chalmers email account&lt;/h2&gt;
+
+&lt;h1 id=&#34;imap:8cbe6fdacc355e0e29b05b303dd46e82&#34;&gt;IMAP&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;imap.chalmers.se - port: 993&lt;/li&gt;
+&lt;li&gt;username : CID&lt;/li&gt;
+&lt;li&gt;Auth method: CID password&lt;/li&gt;
+&lt;li&gt;Connection: SSL/TLS
+// Note : Thunderbird test doesn&amp;rsquo;t work correctly.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;smtp:8cbe6fdacc355e0e29b05b303dd46e82&#34;&gt;SMTP&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;smtp.chalmers.se : 587&lt;/li&gt;
+&lt;li&gt;username : CID&lt;/li&gt;
+&lt;li&gt;Auth method: NTLM (TLS also works)&lt;/li&gt;
+&lt;li&gt;Connection: STARTTLS (if required)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;ios:8cbe6fdacc355e0e29b05b303dd46e82&#34;&gt;iOS&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://it.portal.chalmers.se/itportal/MobilSurfPlattaApple/Epost&#34;&gt;Detail setting from IT portal&lt;/a&gt;
+- Select Exchange account
+- On the first page, use &amp;lsquo;CID@chalmers.se&amp;rsquo;
+- Domain: NET
+- Server: webmail.chalmers.se
+// Note: if you found some information page from Chalmers website saying the server &amp;ldquo;m.outlook.com&amp;rdquo;, that is intended for Chalmers student&lt;/p&gt;
+
+&lt;h1 id=&#34;thunderbird-outlook-exchange-integration:8cbe6fdacc355e0e29b05b303dd46e82&#34;&gt;Thunderbird/Outlook/Exchange integration&lt;/h1&gt;
+
+&lt;p&gt;Tools -&amp;gt; addon -&amp;gt; &amp;ldquo;Lightning&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/Ericsson/exchangecalendar/releases&#34;&gt;Exchange calendar&lt;/a&gt; Get direct access to Chalmers ldap contacts in thunderbird using this extension&lt;/p&gt;
+
+&lt;h1 id=&#34;free-commercial-services:8cbe6fdacc355e0e29b05b303dd46e82&#34;&gt;Free commercial services&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sharelatex.com/&#34;&gt;Sharelatex&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://bitbucket.com&#34;&gt;Bitbucket&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://github.com&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://box.com&#34;&gt;Box&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://prezi.com&#34;&gt;Prezi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exams</title>
+      <link>https://csephd-council.github.io/posts/exams/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://csephd-council.github.io/posts/exams/</guid>
+      <description>
+
+&lt;h2 id=&#34;exam-registration-check-registered-credits:b01aff9b2f61ca17d0c7c4979617efe1&#34;&gt;Exam Registration / Check registered credits&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;go to the &lt;a href=&#34;https://student.portal.chalmers.se/doctoralportal/handbook/Doctoral%20degree%20certificate/Pages/default.aspx&#34;&gt;Doctoral Portal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;click on &amp;ldquo;Login&amp;rdquo; (written in blue in the greyish submenu bar on the top of the page)&lt;/li&gt;
+&lt;li&gt;enter your cid + password&lt;/li&gt;
+&lt;li&gt;click on: &amp;ldquo;Examination, sign-up/cancel sign up&amp;rdquo; / &amp;ldquo;Create transcript of records, postgraduate studies&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;(important : make sure you are in the Doctoral Portal! If you end up in the Student Portal &amp;ldquo;your account doesn&amp;rsquo;t have permission to use the service”)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;course-schedules-room-info:b01aff9b2f61ca17d0c7c4979617efe1&#34;&gt;Course schedules, room info&lt;/h2&gt;
+
+&lt;p&gt;In &lt;a href=&#34;https://se.timeedit.net/web/chalmers/db1/public/##&#34;&gt;Time-edit&lt;/a&gt; you can find information on &lt;em&gt;when&lt;/em&gt; and &lt;em&gt;where&lt;/em&gt; a course is given at Chalmers&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Internet</title>
+      <link>https://csephd-council.github.io/posts/internet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://csephd-council.github.io/posts/internet/</guid>
+      <description>
+
+&lt;h2 id=&#34;wireless-access-to-eduroam:45a0c704d269403982586c1ba79355be&#34;&gt;Wireless access to eduroam&lt;/h2&gt;
+
+&lt;p&gt;There is an installer in &lt;a href=&#34;https://cat.eduroam.org/&#34;&gt;eduroam website&lt;/a&gt; (even for Linux) that embedded the eduroam certificate.&lt;/p&gt;
+
+&lt;h1 id=&#34;manual-setup:45a0c704d269403982586c1ba79355be&#34;&gt;Manual setup&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Login ID: CID@chalmers.se&lt;/li&gt;
+&lt;li&gt;Anonymous ID: empty&lt;/li&gt;
+&lt;li&gt;Password: CID password&lt;/li&gt;
+&lt;li&gt;Authentication: MSCHAPv2&lt;/li&gt;
+&lt;li&gt;EAP type: PEAP&lt;/li&gt;
+&lt;li&gt;Eduroam certificate is in eduroam.pem&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;change-password-for-cid-nomad:45a0c704d269403982586c1ba79355be&#34;&gt;Change password for CID / NOMAD&lt;/h2&gt;
+
+&lt;p&gt;Go to&lt;a href=&#34;http://cdks.chalmers.se&#34;&gt;CDKS&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;home-directory-of-remote-servers:45a0c704d269403982586c1ba79355be&#34;&gt;Home directory of remote servers&lt;/h2&gt;
+
+&lt;p&gt;You have a limited (but large) space at Chalmers servers just for you!
+- enter in your Termial
+- type &amp;lsquo;ssh -X CID@remote12.chalmers.se/users/CID&amp;rsquo;
+there you are
+- to copy file use the secure copy command:
+scp (add &amp;ldquo;-r&amp;rdquo; if it is a directory) &lt;em&gt;path where from&lt;/em&gt;    CIDp@remote12.chalmers.se:/&lt;em&gt;path where to&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;web-space:45a0c704d269403982586c1ba79355be&#34;&gt;Web space&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;/chalmers/users/CID/www/www.cse.chalmers.se&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cse.chalmers.se/~CID/&#34;&gt;http://www.cse.chalmers.se/~CID/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;permissions:45a0c704d269403982586c1ba79355be&#34;&gt;Permissions&lt;/h1&gt;
+
+&lt;p&gt;Sometimes after editing a file in your web directory if will become inaccessible from the web.
+This script applies the right permissions to everything.
+Run from within your &lt;code&gt;www&lt;/code&gt; directory.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;#!/bin/bash
+CONF=/chalmers/sw/sup64/fix_personal_www_rights-1.1/etc
+find www.cse.chalmers.se -type d                -print0 | xargs -r -0 nfs4_setfacl -S ${CONF}/dir.acl
+find www.cse.chalmers.se -type f   -perm /ugo+x -print0 | xargs -r -0 nfs4_setfacl -S ${CONF}/xfile.acl
+find www.cse.chalmers.se -type f ! -perm /ugo+x -print0 | xargs -r -0 nfs4_setfacl -S ${CONF}/file.acl
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;(Source: Patrick Forsberg, private email 2013-12-18)&lt;/p&gt;
+
+&lt;h2 id=&#34;working-remotely-via-ssh-servers:45a0c704d269403982586c1ba79355be&#34;&gt;Working remotely via SSH servers&lt;/h2&gt;
+
+&lt;p&gt;VPN, SSH can be used to work remotely while keeping your access to chalmers resources, restricted articles and libraries.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://student.portal.chalmers.se/en/contactservice/ITServices/self-administered/Sidor/default.aspx&#34;&gt;self-administered&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ssh CID@remote12.chalmers.se&lt;/li&gt;
+&lt;li&gt;ssh CID@remote2.student.chalmers.se&lt;/li&gt;
+&lt;li&gt;ssh CID@remote11.chalmers.se&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you do not want to reenter your password all the time, add
+the following two lines to the corresponding entries in &lt;code&gt;$HOME/.ssh/config&lt;/code&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;     GSSAPIAuthentication yes
+     GSSAPIDelegateCredentials yes
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;After that, having a valid Kerberos ticket will suffice to log in.&lt;/p&gt;
+
+&lt;p&gt;A more lightweight solution is to use sshuttle (&lt;a href=&#34;https://github.com/apenwarr/sshuttle&#34;&gt;https://github.com/apenwarr/sshuttle&lt;/a&gt;).
+Running the following command will automatically tunnel all TCP connections and
+DNS requests through the chalmers network:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;sshuttle -r remote11.chalmers.se 0/0
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;windows-servers-via-remote-desktop:45a0c704d269403982586c1ba79355be&#34;&gt;Windows servers via remote desktop&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;rdesktop remote.cda.chalmers.se&lt;/li&gt;
+&lt;li&gt;login name: NET\CID or CID@net.chalmers.se&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is specially useful for using Microsoft office (Word, powerpoint, Silverlight and IE!!)&lt;/p&gt;
 </description>
     </item>
     

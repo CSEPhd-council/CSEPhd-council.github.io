@@ -6,109 +6,13 @@
     <description>Recent content in Intro Pack on CSE PhD council</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright 2019 CSE PhD council</copyright>
+    <lastBuildDate>Wed, 20 Feb 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://csephd-council.github.io/categories/intro-pack/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Internet</title>
-      <link>https://csephd-council.github.io/posts/internet/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://csephd-council.github.io/posts/internet/</guid>
-      <description>
-
-&lt;h2 id=&#34;wireless-access-to-eduroam:45a0c704d269403982586c1ba79355be&#34;&gt;Wireless access to eduroam&lt;/h2&gt;
-
-&lt;p&gt;There is an installer in &lt;a href=&#34;https://cat.eduroam.org/&#34;&gt;eduroam website&lt;/a&gt; (even for Linux) that embedded the eduroam certificate.&lt;/p&gt;
-
-&lt;h1 id=&#34;manual-setup:45a0c704d269403982586c1ba79355be&#34;&gt;Manual setup&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Login ID: CID@chalmers.se&lt;/li&gt;
-&lt;li&gt;Anonymous ID: empty&lt;/li&gt;
-&lt;li&gt;Password: CID password&lt;/li&gt;
-&lt;li&gt;Authentication: MSCHAPv2&lt;/li&gt;
-&lt;li&gt;EAP type: PEAP&lt;/li&gt;
-&lt;li&gt;Eduroam certificate is in eduroam.pem&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;change-password-for-cid-nomad:45a0c704d269403982586c1ba79355be&#34;&gt;Change password for CID / NOMAD&lt;/h2&gt;
-
-&lt;p&gt;Go to&lt;a href=&#34;http://cdks.chalmers.se&#34;&gt;CDKS&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;home-directory-of-remote-servers:45a0c704d269403982586c1ba79355be&#34;&gt;Home directory of remote servers&lt;/h2&gt;
-
-&lt;p&gt;You have a limited (but large) space at Chalmers servers just for you!
-- enter in your Termial
-- type &amp;lsquo;ssh -X CID@remote12.chalmers.se/users/CID&amp;rsquo;
-there you are
-- to copy file use the secure copy command:
-scp (add &amp;ldquo;-r&amp;rdquo; if it is a directory) &lt;em&gt;path where from&lt;/em&gt;    CIDp@remote12.chalmers.se:/&lt;em&gt;path where to&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;web-space:45a0c704d269403982586c1ba79355be&#34;&gt;Web space&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;/chalmers/users/CID/www/www.cse.chalmers.se&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cse.chalmers.se/~CID/&#34;&gt;http://www.cse.chalmers.se/~CID/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;permissions:45a0c704d269403982586c1ba79355be&#34;&gt;Permissions&lt;/h1&gt;
-
-&lt;p&gt;Sometimes after editing a file in your web directory if will become inaccessible from the web.
-This script applies the right permissions to everything.
-Run from within your &lt;code&gt;www&lt;/code&gt; directory.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;#!/bin/bash
-CONF=/chalmers/sw/sup64/fix_personal_www_rights-1.1/etc
-find www.cse.chalmers.se -type d                -print0 | xargs -r -0 nfs4_setfacl -S ${CONF}/dir.acl
-find www.cse.chalmers.se -type f   -perm /ugo+x -print0 | xargs -r -0 nfs4_setfacl -S ${CONF}/xfile.acl
-find www.cse.chalmers.se -type f ! -perm /ugo+x -print0 | xargs -r -0 nfs4_setfacl -S ${CONF}/file.acl
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;(Source: Patrick Forsberg, private email 2013-12-18)&lt;/p&gt;
-
-&lt;h2 id=&#34;working-remotely-via-ssh-servers:45a0c704d269403982586c1ba79355be&#34;&gt;Working remotely via SSH servers&lt;/h2&gt;
-
-&lt;p&gt;VPN, SSH can be used to work remotely while keeping your access to chalmers resources, restricted articles and libraries.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://student.portal.chalmers.se/en/contactservice/ITServices/self-administered/Sidor/default.aspx&#34;&gt;self-administered&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;ssh CID@remote12.chalmers.se&lt;/li&gt;
-&lt;li&gt;ssh CID@remote2.student.chalmers.se&lt;/li&gt;
-&lt;li&gt;ssh CID@remote11.chalmers.se&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;If you do not want to reenter your password all the time, add
-the following two lines to the corresponding entries in &lt;code&gt;$HOME/.ssh/config&lt;/code&gt;:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;     GSSAPIAuthentication yes
-     GSSAPIDelegateCredentials yes
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;After that, having a valid Kerberos ticket will suffice to log in.&lt;/p&gt;
-
-&lt;p&gt;A more lightweight solution is to use sshuttle (&lt;a href=&#34;https://github.com/apenwarr/sshuttle&#34;&gt;https://github.com/apenwarr/sshuttle&lt;/a&gt;).
-Running the following command will automatically tunnel all TCP connections and
-DNS requests through the chalmers network:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;sshuttle -r remote11.chalmers.se 0/0
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;windows-servers-via-remote-desktop:45a0c704d269403982586c1ba79355be&#34;&gt;Windows servers via remote desktop&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;rdesktop remote.cda.chalmers.se&lt;/li&gt;
-&lt;li&gt;login name: NET\CID or CID@net.chalmers.se&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This is specially useful for using Microsoft office (Word, powerpoint, Silverlight and IE!!)&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Intro Package</title>
       <link>https://csephd-council.github.io/posts/intropackage/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://csephd-council.github.io/posts/intropackage/</guid>
       <description>
@@ -471,6 +375,103 @@ can be obtained by running &lt;code&gt;kinit $YOUR_CID&lt;/code&gt;&lt;/p&gt;
 &lt;li&gt;Hamid Ebadi&lt;/li&gt;
 &lt;li&gt;Daniel Schoepe&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Internet</title>
+      <link>https://csephd-council.github.io/posts/internet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://csephd-council.github.io/posts/internet/</guid>
+      <description>
+
+&lt;h2 id=&#34;wireless-access-to-eduroam:45a0c704d269403982586c1ba79355be&#34;&gt;Wireless access to eduroam&lt;/h2&gt;
+
+&lt;p&gt;There is an installer in &lt;a href=&#34;https://cat.eduroam.org/&#34;&gt;eduroam website&lt;/a&gt; (even for Linux) that embedded the eduroam certificate.&lt;/p&gt;
+
+&lt;h1 id=&#34;manual-setup:45a0c704d269403982586c1ba79355be&#34;&gt;Manual setup&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Login ID: CID@chalmers.se&lt;/li&gt;
+&lt;li&gt;Anonymous ID: empty&lt;/li&gt;
+&lt;li&gt;Password: CID password&lt;/li&gt;
+&lt;li&gt;Authentication: MSCHAPv2&lt;/li&gt;
+&lt;li&gt;EAP type: PEAP&lt;/li&gt;
+&lt;li&gt;Eduroam certificate is in eduroam.pem&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;change-password-for-cid-nomad:45a0c704d269403982586c1ba79355be&#34;&gt;Change password for CID / NOMAD&lt;/h2&gt;
+
+&lt;p&gt;Go to&lt;a href=&#34;http://cdks.chalmers.se&#34;&gt;CDKS&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;home-directory-of-remote-servers:45a0c704d269403982586c1ba79355be&#34;&gt;Home directory of remote servers&lt;/h2&gt;
+
+&lt;p&gt;You have a limited (but large) space at Chalmers servers just for you!
+- enter in your Termial
+- type &amp;lsquo;ssh -X CID@remote12.chalmers.se/users/CID&amp;rsquo;
+there you are
+- to copy file use the secure copy command:
+scp (add &amp;ldquo;-r&amp;rdquo; if it is a directory) &lt;em&gt;path where from&lt;/em&gt;    CIDp@remote12.chalmers.se:/&lt;em&gt;path where to&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;web-space:45a0c704d269403982586c1ba79355be&#34;&gt;Web space&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;/chalmers/users/CID/www/www.cse.chalmers.se&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cse.chalmers.se/~CID/&#34;&gt;http://www.cse.chalmers.se/~CID/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;permissions:45a0c704d269403982586c1ba79355be&#34;&gt;Permissions&lt;/h1&gt;
+
+&lt;p&gt;Sometimes after editing a file in your web directory if will become inaccessible from the web.
+This script applies the right permissions to everything.
+Run from within your &lt;code&gt;www&lt;/code&gt; directory.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;#!/bin/bash
+CONF=/chalmers/sw/sup64/fix_personal_www_rights-1.1/etc
+find www.cse.chalmers.se -type d                -print0 | xargs -r -0 nfs4_setfacl -S ${CONF}/dir.acl
+find www.cse.chalmers.se -type f   -perm /ugo+x -print0 | xargs -r -0 nfs4_setfacl -S ${CONF}/xfile.acl
+find www.cse.chalmers.se -type f ! -perm /ugo+x -print0 | xargs -r -0 nfs4_setfacl -S ${CONF}/file.acl
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;(Source: Patrick Forsberg, private email 2013-12-18)&lt;/p&gt;
+
+&lt;h2 id=&#34;working-remotely-via-ssh-servers:45a0c704d269403982586c1ba79355be&#34;&gt;Working remotely via SSH servers&lt;/h2&gt;
+
+&lt;p&gt;VPN, SSH can be used to work remotely while keeping your access to chalmers resources, restricted articles and libraries.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://student.portal.chalmers.se/en/contactservice/ITServices/self-administered/Sidor/default.aspx&#34;&gt;self-administered&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ssh CID@remote12.chalmers.se&lt;/li&gt;
+&lt;li&gt;ssh CID@remote2.student.chalmers.se&lt;/li&gt;
+&lt;li&gt;ssh CID@remote11.chalmers.se&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you do not want to reenter your password all the time, add
+the following two lines to the corresponding entries in &lt;code&gt;$HOME/.ssh/config&lt;/code&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;     GSSAPIAuthentication yes
+     GSSAPIDelegateCredentials yes
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;After that, having a valid Kerberos ticket will suffice to log in.&lt;/p&gt;
+
+&lt;p&gt;A more lightweight solution is to use sshuttle (&lt;a href=&#34;https://github.com/apenwarr/sshuttle&#34;&gt;https://github.com/apenwarr/sshuttle&lt;/a&gt;).
+Running the following command will automatically tunnel all TCP connections and
+DNS requests through the chalmers network:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;sshuttle -r remote11.chalmers.se 0/0
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;windows-servers-via-remote-desktop:45a0c704d269403982586c1ba79355be&#34;&gt;Windows servers via remote desktop&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;rdesktop remote.cda.chalmers.se&lt;/li&gt;
+&lt;li&gt;login name: NET\CID or CID@net.chalmers.se&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is specially useful for using Microsoft office (Word, powerpoint, Silverlight and IE!!)&lt;/p&gt;
 </description>
     </item>
     

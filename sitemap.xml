@@ -3,7 +3,13 @@
   
   <url>
     <loc>https://csephd-council.github.io/</loc>
+    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://csephd-council.github.io/posts/intropackage/</loc>
+    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -28,10 +34,6 @@
   
   <url>
     <loc>https://csephd-council.github.io/posts/internet/</loc>
-  </url>
-  
-  <url>
-    <loc>https://csephd-council.github.io/posts/intropackage/</loc>
   </url>
   
   <url>
