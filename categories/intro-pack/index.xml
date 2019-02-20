@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Intro Pack on CSE PhD council</title>
-    <link>https://csephd-council.github.io/categories/intro-pack/</link>
+    <link>/categories/intro-pack/</link>
     <description>Recent content in Intro Pack on CSE PhD council</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright 2019 CSE PhD council</copyright>
     <lastBuildDate>Wed, 20 Feb 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://csephd-council.github.io/categories/intro-pack/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/intro-pack/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Intro Package</title>
-      <link>https://csephd-council.github.io/posts/intropackage/</link>
+      <link>/posts/intropackage/</link>
       <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://csephd-council.github.io/posts/intropackage/</guid>
+      <guid>/posts/intropackage/</guid>
       <description>
 
 &lt;h2 id=&#34;expense-report-and-vacation:d2cca72085f3235ba736d641301704cd&#34;&gt;Expense report and Vacation&lt;/h2&gt;
@@ -44,13 +44,15 @@
 
 &lt;h2 id=&#34;book-a-trip-via-egencia-online:d2cca72085f3235ba736d641301704cd&#34;&gt;Book a trip via egencia online&lt;/h2&gt;
 
+&lt;p&gt;[TODO] Update info for new travel agency!&lt;/p&gt;
+
 &lt;p&gt;&lt;a href=&#34;http://go.egencia.com/R00y00fT0X003000FrYu6S0&#34;&gt;Register&lt;/a&gt;
 The first attempt for registration usually fails :), don&amp;rsquo;t get disappointed, try again&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://chalmers.egencia.se/app?service=external&amp;amp;page=Login&amp;amp;mode=form&amp;amp;market=SE&#34;&gt;Booking&lt;/a&gt;
 Email address to ask questions or order via email: Team3.got@viaegencia.com&lt;/p&gt;
 
-&lt;h2 id=&#34;gym-massage-expense-refund-lrs:d2cca72085f3235ba736d641301704cd&#34;&gt;Gym &amp;amp; massage expense refund (LRS)&lt;/h2&gt;
+&lt;h2 id=&#34;health-expense-refund:d2cca72085f3235ba736d641301704cd&#34;&gt;Health expense refund&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://plus.portal.chalmers.se/&#34;&gt;Chalmers Plus&lt;/a&gt;&lt;/p&gt;
 
@@ -84,15 +86,15 @@ Email address to ask questions or order via email: Team3.got@viaegencia.com&lt;/
 &lt;li&gt;In the &lt;strong&gt;Calendar&lt;/strong&gt; tab, you now can search the room name (&lt;strong&gt;as a person&lt;/strong&gt;) and it will appear (It is important to search &amp;ldquo;as people&amp;rdquo; otherwise you just search in your calendar events)&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h1 id=&#34;student-union:d2cca72085f3235ba736d641301704cd&#34;&gt;Student union&lt;/h1&gt;
+&lt;h1 id=&#34;chalmers-student-union:d2cca72085f3235ba736d641301704cd&#34;&gt;Chalmers student union&lt;/h1&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://medlem.chs.chalmers.se&#34;&gt;Paying for student uninon card&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;http://medlem.chs.chalmers.se&#34;&gt;Paying for student union card&lt;/a&gt;
 ** Student union card is REQUIRED for taking an exam **
 While you can delay the payment of student uninon membership fee (meaning that you wouldn&amp;rsquo;t get card as well), it is encouraged to pay the membership fee since the uninon card actually provides you additional benefits such as discounts and so on.&lt;/p&gt;
 
 &lt;h2 id=&#34;discount-apple-swebus-comviq-tele2-tre-sf-cinema-adlibris:d2cca72085f3235ba736d641301704cd&#34;&gt;Discount (Apple, Swebus, Comviq, Tele2, Tre, SF Cinema, Adlibris, &amp;hellip;)&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://mecenat.com/se/&#34;&gt;Mecent&lt;/a&gt; SJ and vastraffik do have discount with student union card even if you are above 26.
+&lt;p&gt;&lt;a href=&#34;https://mecenat.com/se/&#34;&gt;Mecenat&lt;/a&gt; SJ and vastraffik do have discount with student union card even if you are above 26.
 Bus 16 and 55 (Main stations: Chalmers, Chalmers Tvärgatan - Brunsparken - Lindholem) are also available for 300 SEK (6 months period card)&lt;/p&gt;
 
 &lt;p&gt;You can install an app to browse through discounts.&lt;/p&gt;
@@ -380,10 +382,10 @@ can be obtained by running &lt;code&gt;kinit $YOUR_CID&lt;/code&gt;&lt;/p&gt;
     
     <item>
       <title>Internet</title>
-      <link>https://csephd-council.github.io/posts/internet/</link>
+      <link>/posts/internet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://csephd-council.github.io/posts/internet/</guid>
+      <guid>/posts/internet/</guid>
       <description>
 
 &lt;h2 id=&#34;wireless-access-to-eduroam:45a0c704d269403982586c1ba79355be&#34;&gt;Wireless access to eduroam&lt;/h2&gt;
@@ -477,10 +479,10 @@ DNS requests through the chalmers network:&lt;/p&gt;
     
     <item>
       <title>Library</title>
-      <link>https://csephd-council.github.io/posts/library/</link>
+      <link>/posts/library/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://csephd-council.github.io/posts/library/</guid>
+      <guid>/posts/library/</guid>
       <description>
 
 &lt;h2 id=&#34;access-material-when-you-off-campus:925907f22b4c5c7a357c0072cc914381&#34;&gt;Access material when you off-campus&lt;/h2&gt;
@@ -502,10 +504,10 @@ You can request/recommand a (paper/online) book for library. (the book doesn&amp
     
     <item>
       <title>Primula</title>
-      <link>https://csephd-council.github.io/posts/primula/</link>
+      <link>/posts/primula/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://csephd-council.github.io/posts/primula/</guid>
+      <guid>/posts/primula/</guid>
       <description>
 
 &lt;h2 id=&#34;report-vacations-leave-expenses:4504a8362d332319507d58b656eaaadd&#34;&gt;Report vacations, leave, expenses&lt;/h2&gt;
@@ -525,10 +527,10 @@ You can request/recommand a (paper/online) book for library. (the book doesn&amp
     
     <item>
       <title>Printing / Printers</title>
-      <link>https://csephd-council.github.io/posts/print/</link>
+      <link>/posts/print/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://csephd-council.github.io/posts/print/</guid>
+      <guid>/posts/print/</guid>
       <description>
 
 &lt;h2 id=&#34;printer:e1358fa04e25591a13df2fa17150e02b&#34;&gt;Printer&lt;/h2&gt;
@@ -566,10 +568,10 @@ can be obtained by running &lt;code&gt;kinit $YOUR_CID&lt;/code&gt;&lt;/p&gt;
     
     <item>
       <title>Software</title>
-      <link>https://csephd-council.github.io/posts/software/</link>
+      <link>/posts/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://csephd-council.github.io/posts/software/</guid>
+      <guid>/posts/software/</guid>
       <description>
 
 &lt;h2 id=&#34;free-commercial-softwares:2f393b616dd89a2e372fd85789b1e963&#34;&gt;Free commercial softwares&lt;/h2&gt;
@@ -614,10 +616,10 @@ To start using it:&lt;/p&gt;
     
     <item>
       <title>Student Union</title>
-      <link>https://csephd-council.github.io/posts/student_union/</link>
+      <link>/posts/student_union/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://csephd-council.github.io/posts/student_union/</guid>
+      <guid>/posts/student_union/</guid>
       <description>
 
 &lt;h2 id=&#34;student-union:c51bea0d7c45ecd0b91605d0e72fbc5a&#34;&gt;Student union&lt;/h2&gt;
@@ -634,10 +636,10 @@ The fee is 250 SEK fee every semester.&lt;/p&gt;
     
     <item>
       <title>Useful Links (GENERAL)</title>
-      <link>https://csephd-council.github.io/posts/linksuseful/</link>
+      <link>/posts/linksuseful/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://csephd-council.github.io/posts/linksuseful/</guid>
+      <guid>/posts/linksuseful/</guid>
       <description>
 
 &lt;h1 id=&#34;phd-useful-links-general:92f3b7670732b82c930d6789187004f1&#34;&gt;PhD useful links (general)&lt;/h1&gt;
@@ -659,10 +661,10 @@ Procedure for licentiate Thesis, followup meetings and needed forms&lt;/p&gt;
     
     <item>
       <title>useful links (general)</title>
-      <link>https://csephd-council.github.io/posts/middlepack/</link>
+      <link>/posts/middlepack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://csephd-council.github.io/posts/middlepack/</guid>
+      <guid>/posts/middlepack/</guid>
       <description>
 
 &lt;h1 id=&#34;phd-useful-links-general:f32f8f4625b767aab25b4b219e0a7d52&#34;&gt;PhD useful links (general)&lt;/h1&gt;
