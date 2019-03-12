@@ -31,15 +31,6 @@ Student portal</description>
     </item>
     
     <item>
-      <title>Emails</title>
-      <link>/posts/email/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/email/</guid>
-      <description>Setting up your Chalmers email account IMAP  imap.chalmers.se - port: 993 username : CID Auth method: CID password Connection: SSL/TLS // Note : Thunderbird test doesn&amp;rsquo;t work correctly.  SMTP  smtp.chalmers.se : 587 username : CID Auth method: NTLM (TLS also works) Connection: STARTTLS (if required)  iOS Detail setting from IT portal - Select Exchange account - On the first page, use &amp;lsquo;CID@chalmers.se&amp;rsquo; - Domain: NET - Server: webmail.</description>
-    </item>
-    
-    <item>
       <title>Exams</title>
       <link>/posts/exams/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
