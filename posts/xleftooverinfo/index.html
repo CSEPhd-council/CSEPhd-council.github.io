@@ -6,7 +6,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="alternate" href="/index.xml" type="application/rss+xml" title="CSE PhD council">
 		<link rel="icon" href="/favicon.ico">
-		<title>Printing / Printers - CSE PhD council</title>
+		<title> - CSE PhD council</title>
 		
 		<link rel="stylesheet" href="/css/highlight/default.css">
 		<link rel="stylesheet" href="/css/bootstrap.min.css">
@@ -65,43 +65,71 @@
 		<main role="main">
 			<article>
 				<a id="title"></a>
-				<h1 class="doc-entry-title">Printing / Printers</h1>
+				<h1 class="doc-entry-title"></h1>
 				<div class="doc-entry-meta">
 					<span><time datetime="0001-01-01">January 01, 0001</time></span>
 				</div>
 				<section>
 					
 
-<h2 id="printer">Printer</h2>
-
-<p><a href="https://print.chalmers.se/auth/uploadme.cgi">Web interface to printers</a>
-You can use web interface to see nearby printers, download drivers or directly send pdf, txt files to be printed.</p>
-
-<h1 id="ubuntu-installation-tested-on-14-x-12-x">Ubuntu installation (tested on 14.x, 12.x)</h1>
-
-<p><a href="http://print.chalmers.se/drivers/">Download Drivers</a></p>
+<h2 id="course-directory">Course directory</h2>
 
 <ul>
-<li>in &ldquo;system-config-printer&rdquo; type  smb://print.chalmers.se/cse-ed-5473-laser1 (or your printer address)</li>
-<li>add corresponding driver file (*.PDD). It fails to authenticate first, but you can set the password here when you look at printer queue.</li>
-<li>username: NET/CID</li>
+<li>/chalmers/groups/edu2009/www/www.cse.chalmers.se/year/2015/course/TDA352_Cryptography</li>
+<li>accessable :  <a href="http://www.cse.chalmers.se/edu/course/TDA352_Cryptography/">http://www.cse.chalmers.se/edu/course/TDA352_Cryptography/</a></li>
+<li><a href="sync.sh">Simple sync script</a></li>
 </ul>
 
-<h1 id="printing-via-ipp-kerberos">Printing via ipp/kerberos:</h1>
+<h3 id="windows-home-directoory">Windows home directoory:</h3>
 
-<p>Copy <code>krb5.conf</code> in this repository to <code>/etc/krb5.conf</code> and
-run:</p>
+<p>file00.chalmers.se  (accessable via smb://HOST or \\HOST)</p>
 
-<pre><code>test -d $HOME/.cups || mkdir $HOME/.cups
-cat &lt;&lt;EOF &gt;$HOME/.cups/client.conf
-ServerName print.chalmers.se
-GSSServiceName HTTP
-EOF
+<h3 id="linux-home-directory">Linux home directory</h3>
+
+<p>sol.ita.chalmers.se (accessable via smb://HOST or \\HOST)
+<a href="https://student.portal.chalmers.se/en/contactservice/ITServices/self-administered/linux/file-storage/Sidor/Mount-home-directory.aspx">More info</a></p>
+
+<h3 id="calendar">Calendar</h3>
+
+<p>In Sweden knowing week numbers is really useful (Google calendar support showing week # in the calendar view).
+In Ubuntu to show calendar with week numbers (or set it in &ldquo;time &amp; calendar&rdquo; indicator) :</p>
+
+<pre><code>gsettings set org.gnome.shell.calendar show-weekdate true
 </code></pre>
 
-<p>In older versions of CUPS, you may have to add those lines to the system-wide configuration file in <code>/etc/cups/client.conf</code>.
-Then, printing should work whenever you have a valid Kerberos ticket that
-can be obtained by running <code>kinit $YOUR_CID</code></p>
+<h1 id="swedish">Swedish</h1>
+
+<p><a href="http://www.folkuniversitetet.se/chalmers">Folkuniversitetet</a> Only basic courses are free</p>
+
+<p><a href="http://uf.gu.se/english/ask/staff/language-courses/?languageId=100001">GU - Swedish language and culture</a> course for international staff, guest researchers and PhD students</p>
+
+<h1 id="fire">Fire</h1>
+
+<p>For each iteration of a course (using Fire) a new Fire instance is needed. To create a new Fire instance mail Evgeny Kotelnikov and provide:</p>
+
+<ul>
+<li>The course name</li>
+<li>All course codes (courses given at both Chalmers and GU has at least two)</li>
+</ul>
+
+<p>For each new instance you need to add the actual labs. Note the difference between &ldquo;group labs&rdquo; and &ldquo;individual labs&rdquo;.</p>
+
+<p>Then you need to add graders under the &ldquo;Graders&rdquo; tab. Make sure that the grading workload (the lower table) is filled out correctly (otherwise students will not be able to submit assignments).</p>
+
+<p>Some things are not possible to do using the UI, such as removing labs. For this you need to mail Evgeny.</p>
+
+<h2 id="phd-students-email-addresses">PhD students&rsquo; email addresses</h2>
+
+<p><a href="PhD-Emaillist.txt">PhD-Emaillist.txt</a></p>
+
+<h2 id="template-for-answering-interested-students-phd-level">Template for answering interested students (PhD level)</h2>
+
+<p><a href="templateEmail.txt">templateEmail.txt</a></p>
+
+<p>&ndash;
+Contributors:
+- Hamid Ebadi
+- Daniel Schoepe</p>
 
 				</section>
 			</article>
@@ -116,16 +144,25 @@ can be obtained by running <code>kinit $YOUR_CID</code></p>
 		<div class="sidebar-toc">
 			<h4 class="sidebar-heading">Table of Contents</h4>
 			<ul>
-				<li><strong><a href="#title">Printing / Printers</a></strong></li>
+				<li><strong><a href="#title"></a></strong></li>
 			</ul>
 			<nav id="TableOfContents">
 <ul>
 <li>
 <ul>
-<li><a href="#printer">Printer</a></li>
+<li><a href="#course-directory">Course directory</a>
+<ul>
+<li><a href="#windows-home-directoory">Windows home directoory:</a></li>
+<li><a href="#linux-home-directory">Linux home directory</a></li>
+<li><a href="#calendar">Calendar</a></li>
 </ul></li>
-<li><a href="#ubuntu-installation-tested-on-14-x-12-x">Ubuntu installation (tested on 14.x, 12.x)</a></li>
-<li><a href="#printing-via-ipp-kerberos">Printing via ipp/kerberos:</a></li>
+</ul></li>
+<li><a href="#swedish">Swedish</a></li>
+<li><a href="#fire">Fire</a>
+<ul>
+<li><a href="#phd-students-email-addresses">PhD students&rsquo; email addresses</a></li>
+<li><a href="#template-for-answering-interested-students-phd-level">Template for answering interested students (PhD level)</a></li>
+</ul></li>
 </ul>
 </nav>
 		</div>
@@ -176,9 +213,8 @@ can be obtained by running <code>kinit $YOUR_CID</code></p>
 					<li><a href="/posts/library/">Library</a>
 					</li>
 				
-					<li>
-						<span class="active">Printing / Printers</span>
-						</li>
+					<li><a href="/posts/print/">Printing / Printers</a>
+					</li>
 				
 					<li><a href="/posts/software/">Software</a>
 					</li>

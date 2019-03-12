@@ -42,6 +42,8 @@
 						
 							<li><a href="/categories/bye-pack">Bye-Pack</a></li>
 						
+							<li><a href="/categories/general-information">General-Information</a></li>
+						
 							<li><a href="/categories/intro-pack">Intro-Pack</a></li>
 						
 							<li><a href="/categories/mid-pack">Mid-Pack</a></li>
@@ -70,11 +72,11 @@
 				<section>
 					
 
-<h2 id="wireless-access-to-eduroam:45a0c704d269403982586c1ba79355be">Wireless access to eduroam</h2>
+<h2 id="wireless-access-to-eduroam">Wireless access to eduroam</h2>
 
 <p>There is an installer in <a href="https://cat.eduroam.org/">eduroam website</a> (even for Linux) that embedded the eduroam certificate.</p>
 
-<h1 id="manual-setup:45a0c704d269403982586c1ba79355be">Manual setup</h1>
+<h1 id="manual-setup">Manual setup</h1>
 
 <ul>
 <li>Login ID: CID@chalmers.se</li>
@@ -85,11 +87,11 @@
 <li>Eduroam certificate is in eduroam.pem</li>
 </ul>
 
-<h2 id="change-password-for-cid-nomad:45a0c704d269403982586c1ba79355be">Change password for CID / NOMAD</h2>
+<h2 id="change-password-for-cid-nomad">Change password for CID / NOMAD</h2>
 
 <p>Go to<a href="http://cdks.chalmers.se">CDKS</a></p>
 
-<h2 id="home-directory-of-remote-servers:45a0c704d269403982586c1ba79355be">Home directory of remote servers</h2>
+<h2 id="home-directory-of-remote-servers">Home directory of remote servers</h2>
 
 <p>You have a limited (but large) space at Chalmers servers just for you!
 - enter in your Termial
@@ -98,14 +100,14 @@ there you are
 - to copy file use the secure copy command:
 scp (add &ldquo;-r&rdquo; if it is a directory) <em>path where from</em>    CIDp@remote12.chalmers.se:/<em>path where to</em></p>
 
-<h2 id="web-space:45a0c704d269403982586c1ba79355be">Web space</h2>
+<h2 id="web-space">Web space</h2>
 
 <ul>
 <li>/chalmers/users/CID/www/www.cse.chalmers.se</li>
 <li><a href="http://www.cse.chalmers.se/~CID/">http://www.cse.chalmers.se/~CID/</a></li>
 </ul>
 
-<h1 id="permissions:45a0c704d269403982586c1ba79355be">Permissions</h1>
+<h1 id="permissions">Permissions</h1>
 
 <p>Sometimes after editing a file in your web directory if will become inaccessible from the web.
 This script applies the right permissions to everything.
@@ -120,7 +122,7 @@ find www.cse.chalmers.se -type f ! -perm /ugo+x -print0 | xargs -r -0 nfs4_setfa
 
 <p>(Source: Patrick Forsberg, private email 2013-12-18)</p>
 
-<h2 id="working-remotely-via-ssh-servers:45a0c704d269403982586c1ba79355be">Working remotely via SSH servers</h2>
+<h2 id="working-remotely-via-ssh-servers">Working remotely via SSH servers</h2>
 
 <p>VPN, SSH can be used to work remotely while keeping your access to chalmers resources, restricted articles and libraries.</p>
 
@@ -148,7 +150,7 @@ DNS requests through the chalmers network:</p>
 <pre><code>sshuttle -r remote11.chalmers.se 0/0
 </code></pre>
 
-<h2 id="windows-servers-via-remote-desktop:45a0c704d269403982586c1ba79355be">Windows servers via remote desktop</h2>
+<h2 id="windows-servers-via-remote-desktop">Windows servers via remote desktop</h2>
 
 <ul>
 <li>rdesktop remote.cda.chalmers.se</li>
@@ -176,18 +178,18 @@ DNS requests through the chalmers network:</p>
 <ul>
 <li>
 <ul>
-<li><a href="#wireless-access-to-eduroam:45a0c704d269403982586c1ba79355be">Wireless access to eduroam</a></li>
+<li><a href="#wireless-access-to-eduroam">Wireless access to eduroam</a></li>
 </ul></li>
-<li><a href="#manual-setup:45a0c704d269403982586c1ba79355be">Manual setup</a>
+<li><a href="#manual-setup">Manual setup</a>
 <ul>
-<li><a href="#change-password-for-cid-nomad:45a0c704d269403982586c1ba79355be">Change password for CID / NOMAD</a></li>
-<li><a href="#home-directory-of-remote-servers:45a0c704d269403982586c1ba79355be">Home directory of remote servers</a></li>
-<li><a href="#web-space:45a0c704d269403982586c1ba79355be">Web space</a></li>
+<li><a href="#change-password-for-cid-nomad">Change password for CID / NOMAD</a></li>
+<li><a href="#home-directory-of-remote-servers">Home directory of remote servers</a></li>
+<li><a href="#web-space">Web space</a></li>
 </ul></li>
-<li><a href="#permissions:45a0c704d269403982586c1ba79355be">Permissions</a>
+<li><a href="#permissions">Permissions</a>
 <ul>
-<li><a href="#working-remotely-via-ssh-servers:45a0c704d269403982586c1ba79355be">Working remotely via SSH servers</a></li>
-<li><a href="#windows-servers-via-remote-desktop:45a0c704d269403982586c1ba79355be">Windows servers via remote desktop</a></li>
+<li><a href="#working-remotely-via-ssh-servers">Working remotely via SSH servers</a></li>
+<li><a href="#windows-servers-via-remote-desktop">Windows servers via remote desktop</a></li>
 </ul></li>
 </ul>
 </nav>
@@ -203,6 +205,17 @@ DNS requests through the chalmers network:</p>
 				</a>
 				<ul>
 					<li><a href="/posts/union/">Union</a>
+					</li>
+				
+				</ul>
+			</li>
+		
+			<li>
+				<a href="/categories/general-information">
+					<span class="doc-list-category">General-Information</span>
+				</a>
+				<ul>
+					<li><a href="/posts/rooms/">Rooms</a>
 					</li>
 				
 				</ul>
@@ -256,9 +269,6 @@ DNS requests through the chalmers network:</p>
 					</li>
 				
 					<li><a href="/posts/exams/">Exams</a>
-					</li>
-				
-					<li><a href="/posts/rooms/">Rooms</a>
 					</li>
 				
 					<li><a href="/posts/travelex/">Travelling as a Chalmers&#39; Employee</a>

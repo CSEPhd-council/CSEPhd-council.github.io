@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>/posts/intropackage/</loc>
@@ -28,7 +23,7 @@
   </url>
   
   <url>
-    <loc>/posts/Xleftooverinfo/</loc>
+    <loc>/posts/xleftooverinfo/</loc>
   </url>
   
   <url>
@@ -36,7 +31,31 @@
   </url>
   
   <url>
+    <loc>/categories/bye-pack/</loc>
+    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/posts/certificates/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/document/</loc>
+    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -48,11 +67,33 @@
   </url>
   
   <url>
+    <loc>/categories/general-information/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/posts/internet/</loc>
   </url>
   
   <url>
+    <loc>/categories/intro-pack/</loc>
+    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/posts/library/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/mid-pack/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -69,6 +110,12 @@
   
   <url>
     <loc>/posts/student_union/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>

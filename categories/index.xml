@@ -5,8 +5,8 @@
     <link>/categories/</link>
     <description>Recent content in Categories on CSE PhD council</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright 2017 CSE PhD council</copyright>
-    <lastBuildDate>Fri, 24 Nov 2017 14:17:25 +0100</lastBuildDate>
+    <copyright>Copyright 2019 CSE PhD council</copyright>
+    <lastBuildDate>Wed, 20 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,16 +14,25 @@
     <item>
       <title>Bye Pack</title>
       <link>/categories/bye-pack/</link>
-      <pubDate>Fri, 24 Nov 2017 14:17:25 +0100</pubDate>
+      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/bye-pack/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>General Information</title>
+      <link>/categories/general-information/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/general-information/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Intro Pack</title>
       <link>/categories/intro-pack/</link>
-      <pubDate>Fri, 24 Nov 2017 14:17:25 +0100</pubDate>
+      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/intro-pack/</guid>
       <description></description>
@@ -32,7 +41,7 @@
     <item>
       <title>Mid Pack</title>
       <link>/categories/mid-pack/</link>
-      <pubDate>Fri, 24 Nov 2017 14:17:25 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/categories/mid-pack/</guid>
       <description></description>
