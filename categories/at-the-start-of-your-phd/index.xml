@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>At the Start of Your Phd on CSE PhD council</title>
+    <link>/categories/at-the-start-of-your-phd/</link>
+    <description>Recent content in At the Start of Your Phd on CSE PhD council</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright 2019 CSE PhD council</copyright>
+    <lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/at-the-start-of-your-phd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Internet</title>
+      <link>/posts/internet/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/internet/</guid>
+      <description>Wireless access to eduroam There is an installer in eduroam website (even for Linux) that embedded the eduroam certificate.
+Manual setup  Login ID: CID@chalmers.se Anonymous ID: empty Password: CID password Authentication: MSCHAPv2 EAP type: PEAP Eduroam certificate is in eduroam.pem  Change password for CID / NOMAD Go toCDKS
+Home directory of remote servers You have a limited (but large) space at Chalmers servers just for you! - enter in your Termial - type &amp;lsquo;ssh -X CID@remote12.</description>
+    </item>
+    
+    <item>
+      <title>Printing / Printers</title>
+      <link>/posts/print/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/print/</guid>
+      <description>Printer Web interface to printers You can use web interface to see nearby printers, download drivers or directly send pdf, txt files to be printed.
+Setup on linux with SMB (tested on Ubuntu 18.x, 16.x, 14.x, 12.x) See instructions here.
+Printing via ipp/kerberos: Copy krb5.conf in this repository to /etc/krb5.conf and run:
+test -d $HOME/.cups || mkdir $HOME/.cups cat &amp;lt;&amp;lt;EOF &amp;gt;$HOME/.cups/client.conf ServerName print.chalmers.se GSSServiceName HTTP EOF  In older versions of CUPS, you may have to add those lines to the system-wide configuration file in /etc/cups/client.</description>
+    </item>
+    
+    <item>
+      <title>Primula</title>
+      <link>/posts/primula/</link>
+      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/primula/</guid>
+      <description>Report vacations, leave, expenses Chalmers employees use the Primula portal to apply for vacation days and leave, report sick days, and apply to be compensated for travel expenses and other expenses.
+You log in with your CID username and password.
+Here you can also check how many vacation days you have left (or accumulated), your employment statements and records.
+Do not forget to keep you Personal Data page up-to-date (in particular if you move to a new address).</description>
+    </item>
+    
+  </channel>
+</rss>

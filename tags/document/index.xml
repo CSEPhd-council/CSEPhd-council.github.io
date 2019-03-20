@@ -6,10 +6,54 @@
     <description>Recent content in Document on CSE PhD council</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright 2019 CSE PhD council</copyright>
-    <lastBuildDate>Wed, 20 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/document/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Certificates</title>
+      <link>/posts/certificates/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/certificates/</guid>
+      <description>List of passed courses and certificate Having an official list of passed courses can be useful i.e. when applying for scholarship, and to submit your Licentiate / PhD defence request.
+Student portal</description>
+    </item>
+    
+    <item>
+      <title>Internet</title>
+      <link>/posts/internet/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/internet/</guid>
+      <description>Wireless access to eduroam There is an installer in eduroam website (even for Linux) that embedded the eduroam certificate.
+Manual setup  Login ID: CID@chalmers.se Anonymous ID: empty Password: CID password Authentication: MSCHAPv2 EAP type: PEAP Eduroam certificate is in eduroam.pem  Change password for CID / NOMAD Go toCDKS
+Home directory of remote servers You have a limited (but large) space at Chalmers servers just for you! - enter in your Termial - type &amp;lsquo;ssh -X CID@remote12.</description>
+    </item>
+    
+    <item>
+      <title>Printing / Printers</title>
+      <link>/posts/print/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/print/</guid>
+      <description>Printer Web interface to printers You can use web interface to see nearby printers, download drivers or directly send pdf, txt files to be printed.
+Setup on linux with SMB (tested on Ubuntu 18.x, 16.x, 14.x, 12.x) See instructions here.
+Printing via ipp/kerberos: Copy krb5.conf in this repository to /etc/krb5.conf and run:
+test -d $HOME/.cups || mkdir $HOME/.cups cat &amp;lt;&amp;lt;EOF &amp;gt;$HOME/.cups/client.conf ServerName print.chalmers.se GSSServiceName HTTP EOF  In older versions of CUPS, you may have to add those lines to the system-wide configuration file in /etc/cups/client.</description>
+    </item>
+    
+    <item>
+      <title>Travelling as a Chalmers&#39; Employee</title>
+      <link>/posts/travelex/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/travelex/</guid>
+      <description>Travel Approval Before you go: Find out cost estimate, check with your supervisor if your project can cover the cost. Fill in a BTA form (the form will be sent to your division head for signature and to your division secretary for reference).
+Book the travel using the Chalmers (or GU) travel agent (Lingmerths).
+Travel: Enjoy it, pay with your Chalmers MasterCard or in other ways, just remember to keep receipts for any non-food expense (e.</description>
+    </item>
     
     <item>
       <title>Intro Package</title>
@@ -69,16 +113,6 @@ How to claim expenses and be refund - go to [insidan](http://www.chalmers.se/ins
     </item>
     
     <item>
-      <title>Certificates</title>
-      <link>/posts/certificates/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/certificates/</guid>
-      <description>List of passed courses and certificate Holding a list of passed courses is useful when applying for scholarship, and to submit your Licentiate / PhD defence request.
-Student portal</description>
-    </item>
-    
-    <item>
       <title>Email and software</title>
       <link>/posts/email/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -97,17 +131,6 @@ Student portal</description>
     </item>
     
     <item>
-      <title>Internet</title>
-      <link>/posts/internet/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/internet/</guid>
-      <description>Wireless access to eduroam There is an installer in eduroam website (even for Linux) that embedded the eduroam certificate.
-Manual setup  Login ID: CID@chalmers.se Anonymous ID: empty Password: CID password Authentication: MSCHAPv2 EAP type: PEAP Eduroam certificate is in eduroam.pem  Change password for CID / NOMAD Go toCDKS
-Home directory of remote servers You have a limited (but large) space at Chalmers servers just for you! - enter in your Termial - type &amp;lsquo;ssh -X CID@remote12.</description>
-    </item>
-    
-    <item>
       <title>Library</title>
       <link>/posts/library/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -117,17 +140,6 @@ Home directory of remote servers You have a limited (but large) space at Chalmer
 Lending times:
 Books : 1-3 weeks
 E-book, articles: 1-3 days</description>
-    </item>
-    
-    <item>
-      <title>Printing / Printers</title>
-      <link>/posts/print/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/print/</guid>
-      <description>Printer Web interface to printers You can use web interface to see nearby printers, download drivers or directly send pdf, txt files to be printed.
-Ubuntu installation (tested on 14.x, 12.x) Download Drivers
- in &amp;ldquo;system-config-printer&amp;rdquo; type smb://print.chalmers.se/cse-ed-5473-laser1 (or your printer address) add corresponding driver file (*.PDD). It fails to authenticate first, but you can set the password here when you look at printer queue. username: NET/CID  Printing via ipp/kerberos: Copy krb5.</description>
     </item>
     
     <item>
@@ -165,17 +177,6 @@ Microsoft tools Almost everything except MS-Office which is accessable from SYRO
       <guid>/posts/student_union/</guid>
       <description>Student union As a Chalmers PhD student you have the right (and the obligation) to be part of the Student Union. Sign up to the Student Union, this automatically gives you 3 months in the SGS queue and gives you access to all student discounts Mecent. The fee is 250 SEK fee every semester.
 ** Student union card is REQUIRED for taking an exam ** NOTE: If you are a Chalmers PhD student, in order to graduate you need to prove you have payed the fee to the Student Union for all the semesters you have work at Chalmers.</description>
-    </item>
-    
-    <item>
-      <title>Travelling as a Chalmers&#39; Employee</title>
-      <link>/posts/travelex/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/travelex/</guid>
-      <description>Travel Approval Before you go: Find out cost estimate, check with your supervisor if your project can cover the cost. Fill in the new e-form (the form will be sent to your line manager for signature and to your division secretary for reference).
-Book the travel using the Chalmers (or GU) travel agent (egencia).
-Travel: Enjoy it, pay with your Chalmers MasterCard or in other ways, just remember to keep receipts for any non-food expense (e.</description>
     </item>
     
   </channel>

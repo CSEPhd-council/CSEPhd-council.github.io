@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/certificates/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/internet/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/print/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/travelex/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/intropackage/</loc>
     <lastmod>2019-02-20T00:00:00+00:00</lastmod>
   </url>
@@ -27,18 +47,24 @@
   </url>
   
   <url>
-    <loc>/posts/benefits/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/bye-pack/</loc>
+    <loc>/categories/at-the-end-of-your-phd/</loc>
     <lastmod>2019-02-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/categories/at-the-start-of-your-phd/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/benefits/</loc>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -49,12 +75,8 @@
   </url>
   
   <url>
-    <loc>/posts/certificates/</loc>
-  </url>
-  
-  <url>
     <loc>/tags/document/</loc>
-    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -68,11 +90,8 @@
   
   <url>
     <loc>/categories/general-information/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/posts/internet/</loc>
   </url>
   
   <url>
@@ -92,12 +111,8 @@
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/posts/print/</loc>
   </url>
   
   <url>
@@ -114,12 +129,8 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/posts/travelex/</loc>
   </url>
   
 </urlset>

@@ -12,18 +12,27 @@
     
     
     <item>
-      <title>Bye Pack</title>
-      <link>/categories/bye-pack/</link>
+      <title>At the End of Your Phd</title>
+      <link>/categories/at-the-end-of-your-phd/</link>
       <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/bye-pack/</guid>
+      <guid>/categories/at-the-end-of-your-phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>At the Start of Your Phd</title>
+      <link>/categories/at-the-start-of-your-phd/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/at-the-start-of-your-phd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>General Information</title>
       <link>/categories/general-information/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/general-information/</guid>
       <description></description>
