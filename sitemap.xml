@@ -8,12 +8,27 @@
   </url>
   
   <url>
+    <loc>/posts/exams/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/internet/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>/posts/library/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/print/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/software/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -85,10 +100,6 @@
   </url>
   
   <url>
-    <loc>/posts/exams/</loc>
-  </url>
-  
-  <url>
     <loc>/categories/general-information/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -98,10 +109,6 @@
     <loc>/categories/intro-pack/</loc>
     <lastmod>2019-02-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/posts/library/</loc>
   </url>
   
   <url>
@@ -117,10 +124,6 @@
   
   <url>
     <loc>/posts/rooms/</loc>
-  </url>
-  
-  <url>
-    <loc>/posts/software/</loc>
   </url>
   
   <url>

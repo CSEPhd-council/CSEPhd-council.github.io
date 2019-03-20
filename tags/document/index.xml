@@ -22,6 +22,15 @@ Student portal</description>
     </item>
     
     <item>
+      <title>Exams</title>
+      <link>/posts/exams/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/exams/</guid>
+      <description>Exam Registration / Check registered credits  go to the Doctoral Portal click on &amp;ldquo;Login&amp;rdquo; (written in blue in the greyish submenu bar on the top of the page) enter your cid + password click on: &amp;ldquo;Examination, sign-up/cancel sign up&amp;rdquo; / &amp;ldquo;Create transcript of records, postgraduate studies&amp;rdquo;  (important : make sure you are in the Doctoral Portal! If you end up in the Student Portal &amp;ldquo;your account doesn&amp;rsquo;t have permission to use the service&amp;rdquo;)</description>
+    </item>
+    
+    <item>
       <title>Internet</title>
       <link>/posts/internet/</link>
       <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
@@ -30,6 +39,18 @@ Student portal</description>
       <description>Wireless access to eduroam There is an installer in eduroam website (even for Linux) that embedded the eduroam certificate.
 Manual setup  Login ID: CID@chalmers.se Anonymous ID: empty Password: CID password Authentication: MSCHAPv2 EAP type: PEAP Eduroam certificate is in eduroam.pem  Change password for CID / NOMAD Go toCDKS
 Home directory of remote servers You have a limited (but large) space at Chalmers servers just for you! - enter in your Termial - type &amp;lsquo;ssh -X CID@remote12.</description>
+    </item>
+    
+    <item>
+      <title>Library</title>
+      <link>/posts/library/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/library/</guid>
+      <description>Access material when off-campus Add your publications to CLP Books You can request and access material such as books and articles you need for you research at the Library website You can request/recommand a (paper/online) book for library. (the book doesn&amp;rsquo;t necessary need to be relevant to your research area).
+Lending times:
+Books : 1-3 weeks
+E-book, articles: 1-3 days</description>
     </item>
     
     <item>
@@ -42,6 +63,21 @@ Home directory of remote servers You have a limited (but large) space at Chalmer
 Setup on linux with SMB (tested on Ubuntu 18.x, 16.x, 14.x, 12.x) See instructions here.
 Printing via ipp/kerberos: Copy krb5.conf in this repository to /etc/krb5.conf and run:
 test -d $HOME/.cups || mkdir $HOME/.cups cat &amp;lt;&amp;lt;EOF &amp;gt;$HOME/.cups/client.conf ServerName print.chalmers.se GSSServiceName HTTP EOF  In older versions of CUPS, you may have to add those lines to the system-wide configuration file in /etc/cups/client.</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>/posts/software/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/software/</guid>
+      <description>Free commercial software Worth looking (OS and utitily software(antivirus) and domain specific softwares like MATLAB and &amp;hellip;) Windows share:
+ smb://syros.ce.chalmers.se \\syros.ce.chalmers.se
+ Domain: NET
+ username: CID
+  syros directory tree output of &amp;ldquo;tree -L 3 -d&amp;rdquo; on smb://syros.ce.chalmers.se/program/
+Microsoft tools Different version of Windows (even ancient DOS), SQL server and visual studio and more. You need to specify your university (Chalmers).
+Microsoft tools Almost everything except MS-Office which is accessable from SYROS server.</description>
     </item>
     
     <item>
@@ -122,27 +158,6 @@ How to claim expenses and be refund - go to [insidan](http://www.chalmers.se/ins
     </item>
     
     <item>
-      <title>Exams</title>
-      <link>/posts/exams/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/exams/</guid>
-      <description>Exam Registration / Check registered credits  go to the Doctoral Portal click on &amp;ldquo;Login&amp;rdquo; (written in blue in the greyish submenu bar on the top of the page) enter your cid + password click on: &amp;ldquo;Examination, sign-up/cancel sign up&amp;rdquo; / &amp;ldquo;Create transcript of records, postgraduate studies&amp;rdquo;  (important : make sure you are in the Doctoral Portal! If you end up in the Student Portal &amp;ldquo;your account doesn&amp;rsquo;t have permission to use the service”)</description>
-    </item>
-    
-    <item>
-      <title>Library</title>
-      <link>/posts/library/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/library/</guid>
-      <description>Access material when you off-campus Add your publications to CLP Books You can request and access material such as books and articles you need for you research at the Library website You can request/recommand a (paper/online) book for library. (the book doesn&amp;rsquo;t necessary need to be relavant to your research area).
-Lending times:
-Books : 1-3 weeks
-E-book, articles: 1-3 days</description>
-    </item>
-    
-    <item>
       <title>Rooms</title>
       <link>/posts/rooms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -152,21 +167,6 @@ E-book, articles: 1-3 days</description>
 Booking a room To book a room you need to create an event in the exchange calendar for that room.
 Log in to the Outlook webmail client), go to the Calendar tab and click on new to create a new event.
 Click on &amp;lsquo;Add a location or a room&amp;rsquo; and then &amp;lsquo;Add room&amp;rsquo; and you will see which rooms are available at the chosen time.</description>
-    </item>
-    
-    <item>
-      <title>Software</title>
-      <link>/posts/software/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/software/</guid>
-      <description>Free commercial softwares Worth looking (OS and utitily software(antivirus) and domain specific softwares like MATLAB and &amp;hellip;) Windows share:
- smb://syros.ce.chalmers.se \\syros.ce.chalmers.se
- Domain: NET
- username: CID
-  syros directory tree output of &amp;ldquo;tree -L 3 -d&amp;rdquo; on smb://syros.ce.chalmers.se/program/
-Microsoft tools Different version of Windows (even ancient DOS), SQL server and visual studio and more. You need to specify your university (Chalmers).
-Microsoft tools Almost everything except MS-Office which is accessable from SYROS server.</description>
     </item>
     
     <item>

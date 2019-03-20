@@ -6,7 +6,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="alternate" href="/index.xml" type="application/rss+xml" title="CSE PhD council">
 		<link rel="icon" href="/favicon.ico">
-		<title>Rooms - CSE PhD council</title>
+		<title> - CSE PhD council</title>
 		
 		<link rel="stylesheet" href="/css/highlight/default.css">
 		<link rel="stylesheet" href="/css/bootstrap.min.css">
@@ -67,46 +67,71 @@
 		<main role="main">
 			<article>
 				<a id="title"></a>
-				<h1 class="doc-entry-title">Rooms</h1>
+				<h1 class="doc-entry-title"></h1>
 				<div class="doc-entry-meta">
 					<span><time datetime="0001-01-01">January 01, 0001</time></span>
 				</div>
 				<section>
 					
 
-<h2 id="rooms">Rooms</h2>
+<h2 id="course-directory">Course directory</h2>
 
-<p>To find the location of rooms on campus you can go to <a href="http://maps.chalmers.se/">Map (online/app)</a> or download the Chalmers map app for smartphones.</p>
+<ul>
+<li>/chalmers/groups/edu2009/www/www.cse.chalmers.se/year/2015/course/TDA352_Cryptography</li>
+<li>accessable :  <a href="http://www.cse.chalmers.se/edu/course/TDA352_Cryptography/">http://www.cse.chalmers.se/edu/course/TDA352_Cryptography/</a></li>
+<li><a href="sync.sh">Simple sync script</a></li>
+</ul>
 
-<h2 id="booking-a-room">Booking a room</h2>
+<h3 id="windows-home-directoory">Windows home directoory:</h3>
 
-<p>To book a room you need to create an event in the exchange calendar for that room.</p>
+<p>file00.chalmers.se  (accessable via smb://HOST or \\HOST)</p>
 
-<p>Log in to the Outlook <a href="https://webmail.chalmers.se">webmail client</a>), go to the <strong>Calendar</strong> tab and click on <strong>new</strong> to create a new event.</p>
+<h3 id="linux-home-directory">Linux home directory</h3>
 
-<p>Click on &lsquo;Add a location or a room&rsquo; and then &lsquo;Add room&rsquo; and you will see which rooms are available at the chosen time.
-Choose your preferred room (and add any people you&rsquo;d like to invite to the meeting), you then book the room (and invite the people) by clicking &lsquo;Send&rsquo;.</p>
+<p>sol.ita.chalmers.se (accessable via smb://HOST or \\HOST)
+<a href="https://student.portal.chalmers.se/en/contactservice/ITServices/self-administered/linux/file-storage/Sidor/Mount-home-directory.aspx">More info</a></p>
 
-<p><strong>procedure to book rooms directly from your calendar app</strong>
-Adding a room to your calendar &lsquo;followers&rsquo; enables you to check the availability of a room and book it directly from your calendar app (e.g. it works smoothly with iCal).</p>
+<h3 id="calendar">Calendar</h3>
 
-<p>You can also book the &lsquo;corner&rsquo; rooms on the 5th and 6th floors by writing on the whiteboard on the door of the respective room.</p>
+<p>In Sweden knowing week numbers is really useful (Google calendar support showing week # in the calendar view).
+In Ubuntu to show calendar with week numbers (or set it in &ldquo;time &amp; calendar&rdquo; indicator) :</p>
 
-<h1 id="virtual-room">Virtual room</h1>
+<pre><code>gsettings set org.gnome.shell.calendar show-weekdate true
+</code></pre>
 
-<p>The &lsquo;corner&rsquo; room on the 4th floor has a wonderful conference equipment, with excellent webcam and good audio.
-To book the equipment (unfortunately as of 2017 it is not possible to book the room) you need to:
-1. go to the outlook calendar (after logging in in your email) or your calendar app (when the rooms are added as contact)
-2. create a new meeting
-3. choose &lsquo;EDIT Virtuellt Rum 1&rsquo; (invite as attendee)
-4.  set time, add other attendees and send the email.</p>
+<h1 id="swedish">Swedish</h1>
 
-<p><strong>In the room (local party):</strong> press “wake” (twice), switch the large screen on, click on &lsquo;call&rsquo; meeting virtual room
-You can adjust the camera: click on &lsquo;move&rsquo; you will be able to turn and zoom (very useful to show the wihteboard)</p>
+<p><a href="http://www.folkuniversitetet.se/chalmers">Folkuniversitetet</a> Only basic courses are free</p>
 
-<p><strong>In the browser (remote party):</strong>
-    click on the link which comes with the invitation email (it’s always the same),
-    allow browser to access camera / video. If you use this service a lot, you can download <em>lifesizecloud</em> to acces more features.</p>
+<p><a href="http://uf.gu.se/english/ask/staff/language-courses/?languageId=100001">GU - Swedish language and culture</a> course for international staff, guest researchers and PhD students</p>
+
+<h1 id="fire">Fire</h1>
+
+<p>For each iteration of a course (using Fire) a new Fire instance is needed. To create a new Fire instance mail Evgeny Kotelnikov and provide:</p>
+
+<ul>
+<li>The course name</li>
+<li>All course codes (courses given at both Chalmers and GU has at least two)</li>
+</ul>
+
+<p>For each new instance you need to add the actual labs. Note the difference between &ldquo;group labs&rdquo; and &ldquo;individual labs&rdquo;.</p>
+
+<p>Then you need to add graders under the &ldquo;Graders&rdquo; tab. Make sure that the grading workload (the lower table) is filled out correctly (otherwise students will not be able to submit assignments).</p>
+
+<p>Some things are not possible to do using the UI, such as removing labs. For this you need to mail Evgeny.</p>
+
+<h2 id="phd-students-email-addresses">PhD students&rsquo; email addresses</h2>
+
+<p><a href="PhD-Emaillist.txt">PhD-Emaillist.txt</a></p>
+
+<h2 id="template-for-answering-interested-students-phd-level">Template for answering interested students (PhD level)</h2>
+
+<p><a href="templateEmail.txt">templateEmail.txt</a></p>
+
+<p>&ndash;
+Contributors:
+- Hamid Ebadi
+- Daniel Schoepe</p>
 
 				</section>
 			</article>
@@ -121,16 +146,25 @@ You can adjust the camera: click on &lsquo;move&rsquo; you will be able to turn 
 		<div class="sidebar-toc">
 			<h4 class="sidebar-heading">Table of Contents</h4>
 			<ul>
-				<li><strong><a href="#title">Rooms</a></strong></li>
+				<li><strong><a href="#title"></a></strong></li>
 			</ul>
 			<nav id="TableOfContents">
 <ul>
 <li>
 <ul>
-<li><a href="#rooms">Rooms</a></li>
-<li><a href="#booking-a-room">Booking a room</a></li>
+<li><a href="#course-directory">Course directory</a>
+<ul>
+<li><a href="#windows-home-directoory">Windows home directoory:</a></li>
+<li><a href="#linux-home-directory">Linux home directory</a></li>
+<li><a href="#calendar">Calendar</a></li>
 </ul></li>
-<li><a href="#virtual-room">Virtual room</a></li>
+</ul></li>
+<li><a href="#swedish">Swedish</a></li>
+<li><a href="#fire">Fire</a>
+<ul>
+<li><a href="#phd-students-email-addresses">PhD students&rsquo; email addresses</a></li>
+<li><a href="#template-for-answering-interested-students-phd-level">Template for answering interested students (PhD level)</a></li>
+</ul></li>
 </ul>
 </nav>
 		</div>
@@ -158,13 +192,7 @@ You can adjust the camera: click on &lsquo;move&rsquo; you will be able to turn 
 					<li><a href="/posts/internet/">Internet</a>
 					</li>
 				
-					<li><a href="/posts/library/">Library</a>
-					</li>
-				
 					<li><a href="/posts/print/">Printing / Printers</a>
-					</li>
-				
-					<li><a href="/posts/software/">Software</a>
 					</li>
 				
 					<li><a href="/posts/primula/">Primula</a>
@@ -181,18 +209,14 @@ You can adjust the camera: click on &lsquo;move&rsquo; you will be able to turn 
 					<li><a href="/posts/certificates/">Certificates</a>
 					</li>
 				
-					<li><a href="/posts/exams/">Exams</a>
-					</li>
-				
 					<li><a href="/posts/travelex/">Travelling as a Chalmers&#39; Employee</a>
 					</li>
 				
 					<li><a href="/posts/email/">Email and software</a>
 					</li>
 				
-					<li>
-						<span class="active">Rooms</span>
-						</li>
+					<li><a href="/posts/rooms/">Rooms</a>
+					</li>
 				
 				</ul>
 			</li>
@@ -208,6 +232,12 @@ You can adjust the camera: click on &lsquo;move&rsquo; you will be able to turn 
 					<li><a href="/posts/linksuseful/">Useful Links</a>
 					</li>
 				
+					<li><a href="/posts/library/">Library</a>
+					</li>
+				
+					<li><a href="/posts/software/">Software</a>
+					</li>
+				
 					<li><a href="/posts/student_union/">Student Union</a>
 					</li>
 				
@@ -220,6 +250,9 @@ You can adjust the camera: click on &lsquo;move&rsquo; you will be able to turn 
 				</a>
 				<ul>
 					<li><a href="/posts/benefits/">Benefits</a>
+					</li>
+				
+					<li><a href="/posts/exams/">Exams</a>
 					</li>
 				
 				</ul>
