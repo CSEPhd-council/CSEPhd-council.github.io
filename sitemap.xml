@@ -58,11 +58,6 @@
   </url>
   
   <url>
-    <loc>/posts/intropackage/</loc>
-    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/posts/primula/</loc>
     <lastmod>2019-02-20T00:00:00+00:00</lastmod>
   </url>
@@ -114,12 +109,6 @@
   <url>
     <loc>/categories/general-information/</loc>
     <lastmod>2019-03-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/intro-pack/</loc>
-    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
