@@ -6,10 +6,41 @@
     <description>Recent content in Posts on CSE PhD council</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright 2019 CSE PhD council</copyright>
-    <lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Benefits</title>
+      <link>/posts/benefits/</link>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/benefits/</guid>
+      <description>Health expense refund As a Chalmers employee you have the right to be refunded for up to 2000SEK/year for expenses related to health and wellness. This can be done through a portal called Benify. There you can directly buy discounted gym memberships, book massages, etc, making use of your wellness refund. You can also send in receipts and be reimbursed, see below:
+How to claim expenses and be refund - go to [insidan](http://www.</description>
+    </item>
+    
+    <item>
+      <title>Email and software</title>
+      <link>/posts/email/</link>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/email/</guid>
+      <description>Setting up your Chalmers email account IMAP  imap.chalmers.se - port: 993 username : CID Auth method: CID password Connection: SSL/TLS // Note : Thunderbird test doesn&amp;rsquo;t work correctly.  SMTP  smtp.chalmers.se : 587 username : CID Auth method: NTLM (TLS also works) Connection: STARTTLS (if required)  iOS Detail setting from IT portal - Select Exchange account - On the first page, use &amp;lsquo;CID@chalmers.se&amp;rsquo; - Domain: NET - Server: webmail.</description>
+    </item>
+    
+    <item>
+      <title>Rooms</title>
+      <link>/posts/rooms/</link>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/rooms/</guid>
+      <description>Rooms To find the location of rooms on campus you can go to Map (online/app) or download the Chalmers map app for smartphones.
+Booking a room To book a room you need to create an event in the exchange calendar for that room.
+Log in to the Outlook webmail client), go to the Calendar tab and click on new to create a new event.
+Click on &amp;lsquo;Add a location or a room&amp;rsquo; and then &amp;lsquo;Add room&amp;rsquo; and you will see which rooms are available at the chosen time.</description>
+    </item>
     
     <item>
       <title>Certificates</title>
@@ -148,37 +179,6 @@ GTS courses</description>
 Linux home directory sol.ita.chalmers.se (accessable via smb://HOST or \\HOST) More info
 Calendar In Sweden knowing week numbers is really useful (Google calendar support showing week # in the calendar view). In Ubuntu to show calendar with week numbers (or set it in &amp;ldquo;time &amp;amp; calendar&amp;rdquo; indicator) :
 gsettings set org.</description>
-    </item>
-    
-    <item>
-      <title>Benefits</title>
-      <link>/posts/benefits/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/benefits/</guid>
-      <description>Gym &amp;amp; massage expense refund (LRS) As a Chalmers employee you have the right to be refunded for up to 2000SEK/year for expenses related to health and wellness. This is called Benify
-How to claim expenses and be refund - go to [insidan](http://www.chalmers.se/insidan) - on the right-most column select *Chalmers Plus* in the menu under &#39;E-tjanst&#39;, clic *visa* - insert CID and CID-password - click on &#39;wellness receipts&#39; - follow instruction on how to register a receipt (useful instructions in english also under &#39;How do I register my expenses?</description>
-    </item>
-    
-    <item>
-      <title>Email and software</title>
-      <link>/posts/email/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/email/</guid>
-      <description>Setting up your Chalmers email account IMAP  imap.chalmers.se - port: 993 username : CID Auth method: CID password Connection: SSL/TLS // Note : Thunderbird test doesn&amp;rsquo;t work correctly.  SMTP  smtp.chalmers.se : 587 username : CID Auth method: NTLM (TLS also works) Connection: STARTTLS (if required)  iOS Detail setting from IT portal - Select Exchange account - On the first page, use &amp;lsquo;CID@chalmers.se&amp;rsquo; - Domain: NET - Server: webmail.</description>
-    </item>
-    
-    <item>
-      <title>Rooms</title>
-      <link>/posts/rooms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/rooms/</guid>
-      <description>Rooms To find the location of rooms on campus you can go to Map (online/app) or download the Chalmers map app for smartphones.
-Booking a room To book a room you need to create an event in the exchange calendar for that room.
-Log in to the Outlook webmail client), go to the Calendar tab and click on new to create a new event.
-Click on &amp;lsquo;Add a location or a room&amp;rsquo; and then &amp;lsquo;Add room&amp;rsquo; and you will see which rooms are available at the chosen time.</description>
     </item>
     
     <item>

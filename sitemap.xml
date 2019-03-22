@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/benefits/</loc>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/email/</loc>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/rooms/</loc>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/certificates/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
   </url>
@@ -74,12 +89,8 @@
   </url>
   
   <url>
-    <loc>/posts/benefits/</loc>
-  </url>
-  
-  <url>
     <loc>/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -91,17 +102,13 @@
   
   <url>
     <loc>/tags/document/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/posts/email/</loc>
-  </url>
-  
-  <url>
     <loc>/categories/general-information/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -112,18 +119,9 @@
   </url>
   
   <url>
-    <loc>/categories/mid-pack/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/posts/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/posts/rooms/</loc>
   </url>
   
   <url>
@@ -132,7 +130,7 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
