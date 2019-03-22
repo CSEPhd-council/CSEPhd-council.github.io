@@ -43,6 +43,15 @@ Click on &amp;lsquo;Add a location or a room&amp;rsquo; and then &amp;lsquo;Add 
     </item>
     
     <item>
+      <title>Student Union</title>
+      <link>/posts/student_union/</link>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/student_union/</guid>
+      <description>Student union As a Chalmers PhD student you have the right (and the obligation) to be part of the Chalmers Student Union. Sign up for the Student Union, this automatically gives you 3 months in the SGS queue and gives you access to all student discounts Mecenat. You can use your Student Union card to buy discounted food at campus restaurants. The fee is 250 SEK fee every semester.</description>
+    </item>
+    
+    <item>
       <title>Certificates</title>
       <link>/posts/certificates/</link>
       <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
@@ -167,16 +176,6 @@ Welcome leaflet with a bunch of useful organizational information (also for non-
 Licentiate degree
 Follow-up meetings
 GTS courses</description>
-    </item>
-    
-    <item>
-      <title>Student Union</title>
-      <link>/posts/student_union/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/student_union/</guid>
-      <description>Student union As a Chalmers PhD student you have the right (and the obligation) to be part of the Student Union. Sign up to the Student Union, this automatically gives you 3 months in the SGS queue and gives you access to all student discounts Mecent. The fee is 250 SEK fee every semester.
-** Student union card is REQUIRED for taking an exam ** NOTE: If you are a Chalmers PhD student, in order to graduate you need to prove you have payed the fee to the Student Union for all the semesters you have work at Chalmers.</description>
     </item>
     
   </channel>
