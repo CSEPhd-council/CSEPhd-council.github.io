@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Document on CSE PhD council</title>
+    <title>document on CSE PhD council</title>
     <link>/tags/document/</link>
-    <description>Recent content in Document on CSE PhD council</description>
+    <description>Recent content in document on CSE PhD council</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright 2019 CSE PhD council</copyright>
     <lastBuildDate>Fri, 22 Mar 2019 00:00:00 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
       
       <guid>/posts/benefits/</guid>
       <description>Health expense refund As a Chalmers employee you have the right to be refunded for up to 2000SEK/year for expenses related to health and wellness. This can be done through a portal called Benify. There you can directly buy discounted gym memberships, book massages, etc, making use of your wellness refund. You can also send in receipts and be reimbursed, see below:
-How to claim expenses and be refund - go to [insidan](http://www.</description>
+How to claim expenses and to get refunds  Go to insidan On the right-most column select Chalmers Plus in the menu under &amp;lsquo;E-tjanst&amp;rsquo;, clic visa Insert CID and CID-password Click on &amp;lsquo;wellness receipts&amp;rsquo; Follow instruction on how to register a receipt (useful instructions in english also under &amp;lsquo;How do I register my expenses?</description>
     </item>
     
     <item>
@@ -48,7 +48,8 @@ Click on &amp;lsquo;Add a location or a room&amp;rsquo; and then &amp;lsquo;Add 
       <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/posts/student_union/</guid>
-      <description>Student union As a Chalmers PhD student you have the right (and the obligation) to be part of the Chalmers Student Union. Sign up for the Student Union, this automatically gives you 3 months in the SGS queue and gives you access to all student discounts Mecenat. You can use your Student Union card to buy discounted food at campus restaurants. The fee is 250 SEK fee every semester.</description>
+      <description>As a Chalmers PhD student you have the right and the obligation to be part of the Chalmers Student Union. Sign up for the Student Union, this automatically gives you 3 months in the SGS queue and gives you access to all student discounts Mecenat. You can use your Student Union card to buy discounted food at campus restaurants. The fee is 190 SEK every semester.
+If you were already a Chalmers student before becoming a PhD student, you should contact the student union to make sure your section fee goes to DS rather than your previous student section.</description>
     </item>
     
     <item>
@@ -101,7 +102,7 @@ E-book, articles: 1-3 days</description>
       <guid>/posts/print/</guid>
       <description>Printer Web interface to printers You can use web interface to see nearby printers, download drivers or directly send pdf, txt files to be printed.
 Setup on linux with SMB (tested on Ubuntu 18.x, 16.x, 14.x, 12.x) See instructions here.
-Printing via ipp/kerberos: Copy krb5.conf in this repository to /etc/krb5.conf and run:
+Setup on Windows Printing via ipp/kerberos: Copy krb5.conf in this repository to /etc/krb5.conf and run:
 test -d $HOME/.cups || mkdir $HOME/.cups cat &amp;lt;&amp;lt;EOF &amp;gt;$HOME/.cups/client.conf ServerName print.chalmers.se GSSServiceName HTTP EOF  In older versions of CUPS, you may have to add those lines to the system-wide configuration file in /etc/cups/client.</description>
     </item>
     
@@ -111,13 +112,13 @@ test -d $HOME/.cups || mkdir $HOME/.cups cat &amp;lt;&amp;lt;EOF &amp;gt;$HOME/.
       <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/posts/software/</guid>
-      <description>Free commercial software Worth looking (OS and utitily software(antivirus) and domain specific softwares like MATLAB and &amp;hellip;) Windows share:
- smb://syros.ce.chalmers.se \\syros.ce.chalmers.se
+      <description>Free commercial software Worth looking (OSs and domain specific softwares like MATLAB, Mathematica, MS Office, ETC)
+Windows share:
+ \\itupw001.cse.chalmers.se\distb
  Domain: NET
  username: CID
-  syros directory tree output of &amp;ldquo;tree -L 3 -d&amp;rdquo; on smb://syros.ce.chalmers.se/program/
-Microsoft tools Different version of Windows (even ancient DOS), SQL server and visual studio and more. You need to specify your university (Chalmers).
-Microsoft tools Almost everything except MS-Office which is accessable from SYROS server.</description>
+  Microsoft tools Microsoft On-The-Hub Some versions of Windows, MS Office Home/Professional, utitily software (antivirus), Parallels Desktop for Mac, and many others (The software offered might change).
+Box account As a Chalmers employee you get access to a Box account (similar to Dropbox).</description>
     </item>
     
     <item>
@@ -144,16 +145,6 @@ Do not forget to keep you Personal Data page up-to-date (in particular if you mo
     </item>
     
     <item>
-      <title>Union</title>
-      <link>/posts/union/</link>
-      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/union/</guid>
-      <description>Union Sign up and start paying for Akademikernas a-kassa at least 12 months before graduation, so you can receive benefits if you have some months without income before your next employment starts.
-Why</description>
-    </item>
-    
-    <item>
       <title>Useful Links</title>
       <link>/posts/linksuseful/</link>
       <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
@@ -166,6 +157,16 @@ Welcome leaflet with a bunch of useful organizational information (also for non-
 Licentiate degree
 Follow-up meetings
 GTS courses</description>
+    </item>
+    
+    <item>
+      <title>Worker Union</title>
+      <link>/posts/union/</link>
+      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/union/</guid>
+      <description>Union Sign up and start paying for Akademikernas a-kassa at least 12 months before graduation, so you can receive benefits if you have some months without income before your next employment starts.
+Why</description>
     </item>
     
   </channel>

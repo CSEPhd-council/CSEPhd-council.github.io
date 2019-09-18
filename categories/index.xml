@@ -6,22 +6,13 @@
     <description>Recent content in Categories on CSE PhD council</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright 2019 CSE PhD council</copyright>
-    <lastBuildDate>Wed, 20 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>At the End of Your Phd</title>
-      <link>/categories/at-the-end-of-your-phd/</link>
-      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/at-the-end-of-your-phd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>At the Start of Your Phd</title>
+      <title>At the start of your PhD</title>
       <link>/categories/at-the-start-of-your-phd/</link>
       <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -35,6 +26,15 @@
       <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/general-information/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>At the end of your PhD</title>
+      <link>/categories/at-the-end-of-your-phd/</link>
+      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/at-the-end-of-your-phd/</guid>
       <description></description>
     </item>
     
