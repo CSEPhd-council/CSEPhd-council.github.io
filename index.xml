@@ -6,10 +6,30 @@
     <description>Recent content on CSE PhD council</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright 2019 CSE PhD council</copyright>
-    <lastBuildDate>Fri, 22 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Buddy System</title>
+      <link>/posts/buddysystem/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/buddysystem/</guid>
+      <description>We&amp;rsquo;re looking to expand our buddy pool with buddies from all divisions! This is your chance to improve a new PhD student’s experience, by helping them figure out everything you wish you had known when you started here!
+Do you have some wise advice or useful tips you wish someone had given you at the start of your PhD journey?
+This could be anything from questions about navigating department bureaucracy, advice on apartment hunting in Gothenburg, tips on socializing in a new city/country, etc.</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>/news/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/</guid>
+      <description>Join the Buddy System!We’re looking to expand our buddy pool with buddies from all divisions! </description>
+    </item>
     
     <item>
       <title>Benefits</title>
