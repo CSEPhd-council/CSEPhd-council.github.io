@@ -6,10 +6,21 @@
     <description>Recent content in document on CSE PhD council</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright 2019 CSE PhD council</copyright>
-    <lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/document/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Activity Plan</title>
+      <link>/posts/council-docs/activity-plan/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/council-docs/activity-plan/</guid>
+      <description>This activity plan outlines the items and issues which the council plans to work on during its term in 2019-2020. This is a high-level, strategic plan of activities.
+PhD students Representation Background Representation of PhD students in various department committees, such as the department council or research education committee such as DS, SWEET, PhD Mingle, etc.
+Action We plan to properly represent the PhD students in these different committees and report back the results.</description>
+    </item>
     
     <item>
       <title>Buddy System</title>
@@ -178,6 +189,16 @@ GTS courses</description>
       <guid>/posts/union/</guid>
       <description>Union Sign up and start paying for Akademikernas a-kassa at least 12 months before graduation, so you can receive benefits if you have some months without income before your next employment starts.
 Why</description>
+    </item>
+    
+    <item>
+      <title>Statutes</title>
+      <link>/posts/council-docs/statutes/</link>
+      <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/council-docs/statutes/</guid>
+      <description>Statutes of the Computer Science and Engineering (CSE) PhD Student Council Last update: 2018-05-09
+Section 1: General principles  The Computer Science and Engineering PhD Student Council (hereafter referred to as “the council”) is a group of representatives for the doctoral students at the combined Department of Computer Science and Engineering (CSE) at Chalmers University of Technology and Gothenburg University (hereafter referred to as “the department”). The name of the council is “The Computer Science and Engineering PhD Student Council”.</description>
     </item>
     
   </channel>
