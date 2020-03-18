@@ -6,7 +6,7 @@
     <description>Recent content on CSE PhD council</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright 2019 CSE PhD council</copyright>
-    <lastBuildDate>Tue, 17 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -40,6 +40,15 @@ Action We plan to properly represent the PhD students in these different committ
       <guid>/posts/council-docs/ombudsman-statutes/</guid>
       <description>Statutes of the Computer Science and Engineering (CSE) PhD student Ombudsman Section 1: General principles  The Computer Science and Engineering PhD student Ombudsman (hereafter referred to as “the PhD ombudsman”) is an official role held by a PhD student, nominated and elected by the doctoral students at the Department of Computer Science and Engineering (CSE) and approved by the CSE department and/or the graduate school.
  The role of the PhD ombudsman is to help PhD students who experience difficulties during the course of their PhD, by providing counsel and acting as a neutral intermediary.</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>/news/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/news/</guid>
+      <description>Nomination Phase for CSE PhD OmbudsmanThe nomination period for the PhD ombudsman at CSE is open! Join the Buddy System!We’re looking to expand our buddy pool with buddies from all divisions! </description>
     </item>
     
     <item>
@@ -94,15 +103,6 @@ Travel Approval Before you go: Find out cost estimate, check with your superviso
       <description>We&amp;rsquo;re looking to expand our buddy pool with buddies from all divisions! This is your chance to improve a new PhD student’s experience, by helping them figure out everything you wish you had known when you started here!
 Do you have some wise advice or useful tips you wish someone had given you at the start of your PhD journey?
 This could be anything from questions about navigating department bureaucracy, advice on apartment hunting in Gothenburg, tips on socializing in a new city/country, etc.</description>
-    </item>
-    
-    <item>
-      <title>News</title>
-      <link>/news/</link>
-      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/news/</guid>
-      <description>Join the Buddy System!We’re looking to expand our buddy pool with buddies from all divisions! </description>
     </item>
     
     <item>
