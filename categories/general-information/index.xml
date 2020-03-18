@@ -6,10 +6,26 @@
     <description>Recent content in General Information on CSE PhD council</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright 2019 CSE PhD council</copyright>
-    <lastBuildDate>Tue, 17 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/general-information/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Useful Links</title>
+      <link>/posts/linksuseful/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/linksuseful/</guid>
+      <description>Some useful links Handbook for doctoral studies Procedure for licentiate Thesis, followup meetings and needed forms
+Doctoral Portal
+Intranet
+Welcome leaflet with a bunch of useful organizational information (also for non-PhDs)
+Licentiate degree (There are rules specific to CSE, make sure to follow those in addition to the basic ones described in the same page)
+Follow-up meetings
+GTS courses
+Insidan (old intranet, deprecated)</description>
+    </item>
     
     <item>
       <title>Traveling as a Chalmers&#39; Employee</title>
@@ -70,21 +86,6 @@ Student portal</description>
       
       <guid>/posts/exams/</guid>
       <description>Exam Registration / Check registered credits  go to the Doctoral Portal click on &amp;ldquo;Login&amp;rdquo; (written in blue in the greyish submenu bar on the top of the page) enter your cid + password click on: &amp;ldquo;Examination, sign-up/cancel sign up&amp;rdquo; / &amp;ldquo;Create transcript of records, postgraduate studies&amp;rdquo;  (important : make sure you are in the Doctoral Portal! If you end up in the Student Portal &amp;ldquo;your account doesn&amp;rsquo;t have permission to use the service&amp;rdquo;)</description>
-    </item>
-    
-    <item>
-      <title>Useful Links</title>
-      <link>/posts/linksuseful/</link>
-      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/linksuseful/</guid>
-      <description>Some useful links Handbook for doctoral studies Procedure for licentiate Thesis, followup meetings and needed forms
-Doctoral Portal
-Insidan
-Welcome leaflet with a bunch of useful organizational information (also for non-PhDs)
-Licentiate degree
-Follow-up meetings
-GTS courses</description>
     </item>
     
   </channel>

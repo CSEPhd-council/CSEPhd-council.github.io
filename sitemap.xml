@@ -18,7 +18,22 @@
   </url>
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/document/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/general-information/</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,27 +43,22 @@
   </url>
   
   <url>
-    <loc>/categories/at-the-start-of-your-phd/</loc>
-    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/document/</loc>
-    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/general-information/</loc>
-    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/posts/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/linksuseful/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/at-the-start-of-your-phd/</loc>
     <lastmod>2020-03-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -59,11 +69,6 @@
   
   <url>
     <loc>/posts/software/</loc>
-    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-03-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -139,11 +144,6 @@
   
   <url>
     <loc>/categories/at-the-end-of-your-phd/</loc>
-    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/linksuseful/</loc>
     <lastmod>2019-02-20T00:00:00+00:00</lastmod>
   </url>
   
