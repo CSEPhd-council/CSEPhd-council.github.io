@@ -6,10 +6,33 @@
     <description>Recent content in At the start of your PhD on CSE PhD council</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright 2019 CSE PhD council</copyright>
-    <lastBuildDate>Fri, 22 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/at-the-start-of-your-phd/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Primula</title>
+      <link>/posts/primula/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/primula/</guid>
+      <description>Report vacations, leave, expenses Chalmers employees use the Primula portal to apply for vacation days and leave, report sick days, and apply to be compensated for travel expenses and other expenses.
+You log in with your CID username and password.
+There you can also check how many vacation days you have left (or accumulated), your employment statements and records.
+Do not forget to keep your Personal Data page up-to-date (in particular if you move to a new address).</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>/posts/software/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/software/</guid>
+      <description>Commercial Software Available Here you will find instructions to get programs such as several Affinity tools, Adobe tools, Matlab, Office, etc. https://it.portal.chalmers.se/itportal/GenAnst/SoftwareGeneral#anvisningar
+If you need other software, talk with your supervisor or with Technical Support (you can find them at the bottom of this page)
+Microsoft tools Microsoft On-The-Hub Some versions of Windows, MS Office Home/Professional, utitily software (antivirus), Parallels Desktop for Mac, and many others (The software offered might change).</description>
+    </item>
     
     <item>
       <title>Student Union</title>
@@ -54,33 +77,6 @@ E-book, articles: 1-3 days</description>
 Setup on linux with SMB (tested on Ubuntu 18.x, 16.x, 14.x, 12.x) See instructions here.
 Setup on Windows Printing via ipp/kerberos: Copy krb5.conf in this repository to /etc/krb5.conf and run:
 test -d $HOME/.cups || mkdir $HOME/.cups cat &amp;lt;&amp;lt;EOF &amp;gt;$HOME/.cups/client.conf ServerName print.chalmers.se GSSServiceName HTTP EOF  In older versions of CUPS, you may have to add those lines to the system-wide configuration file in /etc/cups/client.</description>
-    </item>
-    
-    <item>
-      <title>Software</title>
-      <link>/posts/software/</link>
-      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/software/</guid>
-      <description>Free commercial software Worth looking (OSs and domain specific softwares like MATLAB, Mathematica, MS Office, ETC)
-Windows share:
- \\itupw001.cse.chalmers.se\distb
- Domain: NET
- username: CID
-  Microsoft tools Microsoft On-The-Hub Some versions of Windows, MS Office Home/Professional, utitily software (antivirus), Parallels Desktop for Mac, and many others (The software offered might change).
-Box account As a Chalmers employee you get access to a Box account (similar to Dropbox).</description>
-    </item>
-    
-    <item>
-      <title>Primula</title>
-      <link>/posts/primula/</link>
-      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/primula/</guid>
-      <description>Report vacations, leave, expenses Chalmers employees use the Primula portal to apply for vacation days and leave, report sick days, and apply to be compensated for travel expenses and other expenses.
-You log in with your CID username and password.
-Here you can also check how many vacation days you have left (or accumulated), your employment statements and records.
-Do not forget to keep you Personal Data page up-to-date (in particular if you move to a new address).</description>
     </item>
     
   </channel>
