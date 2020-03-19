@@ -6,10 +6,29 @@
     <description>Recent content in At the start of your PhD on CSE PhD council</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright 2019 CSE PhD council</copyright>
-    <lastBuildDate>Tue, 17 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/at-the-start-of-your-phd/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New in Sweden</title>
+      <link>/posts/new-in-sweden/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/new-in-sweden/</guid>
+      <description>TODO</description>
+    </item>
+    
+    <item>
+      <title>First Steps</title>
+      <link>/posts/first-steps/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/first-steps/</guid>
+      <description>The first days when you start your PhD in an unknown place can be a bit disorienting or overwhelming, so here is a (possibly incomplete) checklist of things you should keep in mind for your first days around. (If you find out there&amp;rsquo;s information that should be included or updated, please send us a mail!)
+Also, if you come from another country you should also read the New in Sweden page to get an idea of things you should take care of when you arrive.</description>
+    </item>
     
     <item>
       <title>Primula</title>
@@ -35,13 +54,21 @@ Microsoft tools Microsoft On-The-Hub Some versions of Windows, MS Office Home/Pr
     </item>
     
     <item>
-      <title>Student Union</title>
-      <link>/posts/student_union/</link>
+      <title>Email</title>
+      <link>/posts/email/</link>
       <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/student_union/</guid>
-      <description>As a Chalmers PhD student you have the right and the obligation to be part of the Chalmers Student Union. Sign up for the Student Union, this automatically gives you 3 months in the SGS queue and gives you access to all student discounts Mecenat. You can use your Student Union card to buy discounted food at campus restaurants. The fee is 190 SEK every semester.
-If you were already a Chalmers student before becoming a PhD student, you should contact the student union to make sure your section fee goes to DS rather than your previous student section.</description>
+      <guid>/posts/email/</guid>
+      <description>Setting up your Chalmers email account IMAP  imap.chalmers.se - port: 993 username : CID Auth method: CID password Connection: SSL/TLS // Note : Thunderbird test doesn&amp;rsquo;t work correctly.  SMTP  smtp.chalmers.se : 587 username : CID Auth method: NTLM (TLS also works) Connection: STARTTLS (if required)  iOS Detail setting from IT portal - Select Exchange account - On the first page, use &amp;lsquo;CID@chalmers.se&amp;rsquo; - Domain: NET - Server: webmail.</description>
+    </item>
+    
+    <item>
+      <title>Student Union</title>
+      <link>/posts/student-union/</link>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/student-union/</guid>
+      <description>The Student Union / Doctorand Students Guild (DS) As a Chalmers PhD student you have the right and the obligation to be part of the Chalmers Student Union. Sign up for the Student Union, this automatically gives you 3 months in the SGS queue and gives you access to all student discounts Mecenat. You can use your Student Union card to buy discounted food at campus restaurants. The fee is 190 SEK every semester.</description>
     </item>
     
     <item>
@@ -53,30 +80,6 @@ If you were already a Chalmers student before becoming a PhD student, you should
       <description>Wireless access to eduroam There is an installer in eduroam website (even for Linux) that embedded the eduroam certificate.
 Manual setup  Login ID: CID@chalmers.se Anonymous ID: empty Password: CID password Authentication: MSCHAPv2 EAP type: PEAP Eduroam certificate is in eduroam.pem  Change password for CID / NOMAD Go toCDKS
 Home directory of remote servers You have a limited (but large) space at Chalmers servers just for you! - enter in your Termial - type &amp;lsquo;ssh -X CID@remote12.</description>
-    </item>
-    
-    <item>
-      <title>Library</title>
-      <link>/posts/library/</link>
-      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/library/</guid>
-      <description>Access material when off-campus Add your publications to CLP Books You can request and access material such as books and articles you need for you research at the Library website You can request/recommand a (paper/online) book for library. (the book doesn&amp;rsquo;t necessary need to be relevant to your research area).
-Lending times:
-Books : 1-3 weeks
-E-book, articles: 1-3 days</description>
-    </item>
-    
-    <item>
-      <title>Printing / Printers</title>
-      <link>/posts/print/</link>
-      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/print/</guid>
-      <description>Printer Web interface to printers You can use web interface to see nearby printers, download drivers or directly send pdf, txt files to be printed.
-Setup on linux with SMB (tested on Ubuntu 18.x, 16.x, 14.x, 12.x) See instructions here.
-Setup on Windows Printing via ipp/kerberos: Copy krb5.conf in this repository to /etc/krb5.conf and run:
-test -d $HOME/.cups || mkdir $HOME/.cups cat &amp;lt;&amp;lt;EOF &amp;gt;$HOME/.cups/client.conf ServerName print.chalmers.se GSSServiceName HTTP EOF  In older versions of CUPS, you may have to add those lines to the system-wide configuration file in /etc/cups/client.</description>
     </item>
     
   </channel>

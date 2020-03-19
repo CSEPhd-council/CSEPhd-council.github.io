@@ -6,19 +6,19 @@
     <description>Recent content in Posts on CSE PhD council</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright 2019 CSE PhD council</copyright>
-    <lastBuildDate>Wed, 18 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Council Statutes</title>
-      <link>/posts/council-docs/council-statutes/</link>
-      <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
+      <title>Ombudsman Statutes</title>
+      <link>/posts/council-docs/ombudsman-statutes/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/council-docs/council-statutes/</guid>
-      <description>Statutes of the Computer Science and Engineering (CSE) PhD Student Council Last update: 2018-05-09
-Section 1: General principles  The Computer Science and Engineering PhD Student Council (hereafter referred to as “the council”) is a group of representatives for the doctoral students at the combined Department of Computer Science and Engineering (CSE) at Chalmers University of Technology and Gothenburg University (hereafter referred to as “the department”). The name of the council is “The Computer Science and Engineering PhD Student Council”.</description>
+      <guid>/posts/council-docs/ombudsman-statutes/</guid>
+      <description>Statutes of the Computer Science and Engineering (CSE) PhD student Ombudsman Section 1: General principles  The Computer Science and Engineering PhD student Ombudsman (hereafter referred to as “the PhD ombudsman”) is an official role held by a PhD student, nominated and elected by the doctoral students at the Department of Computer Science and Engineering (CSE) and approved by the CSE department and/or the graduate school.
+ The role of the PhD ombudsman is to help PhD students who experience difficulties during the course of their PhD, by providing counsel and acting as a neutral intermediary.</description>
     </item>
     
     <item>
@@ -33,13 +33,32 @@ Action We plan to properly represent the PhD students in these different committ
     </item>
     
     <item>
-      <title>Ombudsman Statutes</title>
-      <link>/posts/council-docs/ombudsman-statutes/</link>
-      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      <title>New in Sweden</title>
+      <link>/posts/new-in-sweden/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/council-docs/ombudsman-statutes/</guid>
-      <description>Statutes of the Computer Science and Engineering (CSE) PhD student Ombudsman Section 1: General principles  The Computer Science and Engineering PhD student Ombudsman (hereafter referred to as “the PhD ombudsman”) is an official role held by a PhD student, nominated and elected by the doctoral students at the Department of Computer Science and Engineering (CSE) and approved by the CSE department and/or the graduate school.
- The role of the PhD ombudsman is to help PhD students who experience difficulties during the course of their PhD, by providing counsel and acting as a neutral intermediary.</description>
+      <guid>/posts/new-in-sweden/</guid>
+      <description>TODO</description>
+    </item>
+    
+    <item>
+      <title>First Steps</title>
+      <link>/posts/first-steps/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/first-steps/</guid>
+      <description>The first days when you start your PhD in an unknown place can be a bit disorienting or overwhelming, so here is a (possibly incomplete) checklist of things you should keep in mind for your first days around. (If you find out there&amp;rsquo;s information that should be included or updated, please send us a mail!)
+Also, if you come from another country you should also read the New in Sweden page to get an idea of things you should take care of when you arrive.</description>
+    </item>
+    
+    <item>
+      <title>Council Statutes</title>
+      <link>/posts/council-docs/council-statutes/</link>
+      <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/council-docs/council-statutes/</guid>
+      <description>Statutes of the Computer Science and Engineering (CSE) PhD Student Council Last update: 2018-05-09
+Section 1: General principles  The Computer Science and Engineering PhD Student Council (hereafter referred to as “the council”) is a group of representatives for the doctoral students at the combined Department of Computer Science and Engineering (CSE) at Chalmers University of Technology and Gothenburg University (hereafter referred to as “the department”). The name of the council is “The Computer Science and Engineering PhD Student Council”.</description>
     </item>
     
     <item>
@@ -56,6 +75,17 @@ Licentiate degree (There are rules specific to CSE, make sure to follow those in
 Follow-up meetings
 GTS courses
 Insidan (old intranet, deprecated)</description>
+    </item>
+    
+    <item>
+      <title>Business Trips</title>
+      <link>/posts/travelex/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/travelex/</guid>
+      <description>Chalmer&amp;rsquo;s Guidelines In the following link you can find the official guide from chalmers to book a trip: https://intranet.chalmers.se/en/tools-support/general-support-services/conferences-meetings-business-travel/business-travels/book-a-trip/
+This link gives the basic guidelines for what expenses are covered and how you should pay for them and register them: https://intranet.chalmers.se/en/tools-support/general-support-services/conferences-meetings-business-travel/business-travels/expenses-travel-bill-and-entertainment/
+Travel Approval Before you go: Find out cost estimate, check with your supervisor if your project can cover the cost. Fill in a BTA form (This form might be outdated, ask your division secretary just in case) (the form will be sent to your division head for signature and to your division secretary for reference).</description>
     </item>
     
     <item>
@@ -82,17 +112,6 @@ Microsoft tools Microsoft On-The-Hub Some versions of Windows, MS Office Home/Pr
     </item>
     
     <item>
-      <title>Traveling as a Chalmers&#39; Employee</title>
-      <link>/posts/travelex/</link>
-      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/travelex/</guid>
-      <description>Chalmer&amp;rsquo;s Guidelines In the following link you can find the official guide from chalmers to book a trip: https://intranet.chalmers.se/en/tools-support/general-support-services/conferences-meetings-business-travel/business-travels/book-a-trip/
-This link gives the basic guidelines for what expenses are covered and how you should pay for them and register them: https://intranet.chalmers.se/en/tools-support/general-support-services/conferences-meetings-business-travel/business-travels/expenses-travel-bill-and-entertainment/
-Travel Approval Before you go: Find out cost estimate, check with your supervisor if your project can cover the cost. Fill in a BTA form (This form might be outdated, ask your division secretary just in case) (the form will be sent to your division head for signature and to your division secretary for reference).</description>
-    </item>
-    
-    <item>
       <title>Ombudsman</title>
       <link>/posts/ombudsman/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
@@ -113,7 +132,7 @@ This could be anything from questions about navigating department bureaucracy, a
     </item>
     
     <item>
-      <title>Benefits</title>
+      <title>Benefits (Discounts)</title>
       <link>/posts/benefits/</link>
       <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -123,7 +142,7 @@ How to claim expenses and to get refunds  Go to insidan On the right-most column
     </item>
     
     <item>
-      <title>Email and software</title>
+      <title>Email</title>
       <link>/posts/email/</link>
       <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -145,31 +164,21 @@ Click on &amp;lsquo;Add a location or a room&amp;rsquo; and then &amp;lsquo;Add 
     
     <item>
       <title>Student Union</title>
-      <link>/posts/student_union/</link>
+      <link>/posts/student-union/</link>
       <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/student_union/</guid>
-      <description>As a Chalmers PhD student you have the right and the obligation to be part of the Chalmers Student Union. Sign up for the Student Union, this automatically gives you 3 months in the SGS queue and gives you access to all student discounts Mecenat. You can use your Student Union card to buy discounted food at campus restaurants. The fee is 190 SEK every semester.
-If you were already a Chalmers student before becoming a PhD student, you should contact the student union to make sure your section fee goes to DS rather than your previous student section.</description>
+      <guid>/posts/student-union/</guid>
+      <description>The Student Union / Doctorand Students Guild (DS) As a Chalmers PhD student you have the right and the obligation to be part of the Chalmers Student Union. Sign up for the Student Union, this automatically gives you 3 months in the SGS queue and gives you access to all student discounts Mecenat. You can use your Student Union card to buy discounted food at campus restaurants. The fee is 190 SEK every semester.</description>
     </item>
     
     <item>
-      <title>Certificates</title>
-      <link>/posts/certificates/</link>
-      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/certificates/</guid>
-      <description>List of passed courses and certificate Having an official list of passed courses can be useful i.e. when applying for scholarship, and to submit your Licentiate / PhD defence request.
-Student portal</description>
-    </item>
-    
-    <item>
-      <title>Exams</title>
+      <title>Courses &amp; Certificates</title>
       <link>/posts/exams/</link>
       <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/posts/exams/</guid>
-      <description>Exam Registration / Check registered credits  go to the Doctoral Portal click on &amp;ldquo;Login&amp;rdquo; (written in blue in the greyish submenu bar on the top of the page) enter your cid + password click on: &amp;ldquo;Examination, sign-up/cancel sign up&amp;rdquo; / &amp;ldquo;Create transcript of records, postgraduate studies&amp;rdquo;  (important : make sure you are in the Doctoral Portal! If you end up in the Student Portal &amp;ldquo;your account doesn&amp;rsquo;t have permission to use the service&amp;rdquo;)</description>
+      <description>PhD-level Courses TODO: how to register and report credits for phd-level courses
+Exam Registration / Check registered credits  go to the Doctoral Portal click on &amp;ldquo;Login&amp;rdquo; (written in blue in the greyish submenu bar on the top of the page) enter your cid + password click on: &amp;ldquo;Examination, sign-up/cancel sign up&amp;rdquo; / &amp;ldquo;Create transcript of records, postgraduate studies&amp;rdquo;  (important : make sure you are in the Doctoral Portal!</description>
     </item>
     
     <item>
@@ -196,7 +205,7 @@ E-book, articles: 1-3 days</description>
     </item>
     
     <item>
-      <title>Printing / Printers</title>
+      <title>Printers</title>
       <link>/posts/print/</link>
       <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
       
