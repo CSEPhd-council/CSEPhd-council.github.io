@@ -5,27 +5,36 @@
     <link>/categories/</link>
     <description>Recent content in Categories on CSE PhD council</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright 2019 CSE PhD council</copyright>
-    <lastBuildDate>Thu, 19 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <copyright>CSE PhD council</copyright>
+    <lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>At the start of your PhD</title>
-      <link>/categories/at-the-start-of-your-phd/</link>
-      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      <title>Council Activities</title>
+      <link>/categories/council-activities/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>/categories/at-the-start-of-your-phd/</guid>
+      <guid>/categories/council-activities/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>General Information</title>
-      <link>/categories/general-information/</link>
-      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      <title>PhD Specifics</title>
+      <link>/categories/phd-specifics/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>/categories/general-information/</guid>
+      <guid>/categories/phd-specifics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workplace</title>
+      <link>/categories/workplace/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/workplace/</guid>
       <description></description>
     </item>
     
@@ -35,24 +44,6 @@
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/council-documents/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Get Involved</title>
-      <link>/categories/get-involved/</link>
-      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/get-involved/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>At the end of your PhD</title>
-      <link>/categories/at-the-end-of-your-phd/</link>
-      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/at-the-end-of-your-phd/</guid>
       <description></description>
     </item>
     

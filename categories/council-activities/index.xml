@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Council Activities on CSE PhD council</title>
+    <link>/categories/council-activities/</link>
+    <description>Recent content in Council Activities on CSE PhD council</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>CSE PhD council</copyright>
+    <lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/council-activities/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ombudsman</title>
+      <link>/posts/ombudsman/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/ombudsman/</guid>
+      <description>CSE PhD Ombudsman: Matthías Páll Gissurarson (pallm [at] chalmers [dot] se) Matthías was elected in during May of 2020.
+About the Ombudsman Role Here you can find the official statute for the CSE PhD Ombudsman.
+Despite there being several different contacts that are there to help you, such as the Doktorandombud (DOMB), in agreement with the CSE Research School we re-introduce the position of the CSE PhD Ombudsman as an elected PhD student that has the local role to listen and help other PhD students by giving an objective point of view on difficult, or sometimes tedious, PhD related problems.</description>
+    </item>
+    
+    <item>
+      <title>Buddy System</title>
+      <link>/posts/buddysystem/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/buddysystem/</guid>
+      <description>We&amp;rsquo;re looking to expand our buddy pool with buddies from all divisions! This is your chance to improve a new PhD student’s experience, by helping them figure out everything you wish you had known when you started here!
+Do you have some wise advice or useful tips you wish someone had given you at the start of your PhD journey?
+This could be anything from questions about navigating department bureaucracy, advice on apartment hunting in Gothenburg, tips on socializing in a new city/country, etc.</description>
+    </item>
+    
+    <item>
+      <title>Who is the council?</title>
+      <link>/posts/council-who/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/council-who/</guid>
+      <description> Linda Erlenhov
+    Irene Lobo Valbuena
+    Roc R. Currius
+    Mazen Mohammad
+    Ziming Wang
+    Emil Carlsson
+    </description>
+    </item>
+    
+    <item>
+      <title>Council Documents</title>
+      <link>/posts/council-documents/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/council-documents/</guid>
+      <description>Council StatutesActivity PlanOmbudsman Statutes</description>
+    </item>
+    
+  </channel>
+</rss>

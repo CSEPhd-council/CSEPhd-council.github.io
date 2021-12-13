@@ -5,11 +5,48 @@
     <link>/</link>
     <description>Recent content on CSE PhD council</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright 2019 CSE PhD council</copyright>
-    <lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <copyright>CSE PhD council</copyright>
+    <lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ombudsman</title>
+      <link>/posts/ombudsman/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/ombudsman/</guid>
+      <description>CSE PhD Ombudsman: Matthías Páll Gissurarson (pallm [at] chalmers [dot] se) Matthías was elected in during May of 2020.
+About the Ombudsman Role Here you can find the official statute for the CSE PhD Ombudsman.
+Despite there being several different contacts that are there to help you, such as the Doktorandombud (DOMB), in agreement with the CSE Research School we re-introduce the position of the CSE PhD Ombudsman as an elected PhD student that has the local role to listen and help other PhD students by giving an objective point of view on difficult, or sometimes tedious, PhD related problems.</description>
+    </item>
+    
+    <item>
+      <title>Buddy System</title>
+      <link>/posts/buddysystem/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/buddysystem/</guid>
+      <description>We&amp;rsquo;re looking to expand our buddy pool with buddies from all divisions! This is your chance to improve a new PhD student’s experience, by helping them figure out everything you wish you had known when you started here!
+Do you have some wise advice or useful tips you wish someone had given you at the start of your PhD journey?
+This could be anything from questions about navigating department bureaucracy, advice on apartment hunting in Gothenburg, tips on socializing in a new city/country, etc.</description>
+    </item>
+    
+    <item>
+      <title>Who is the council?</title>
+      <link>/posts/council-who/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/council-who/</guid>
+      <description> Linda Erlenhov
+    Irene Lobo Valbuena
+    Roc R. Currius
+    Mazen Mohammad
+    Ziming Wang
+    Emil Carlsson
+    </description>
+    </item>
     
     <item>
       <title>Ombudsman Statutes</title>
@@ -43,6 +80,16 @@ Also, if you come from another country you should also read the New in Sweden pa
     </item>
     
     <item>
+      <title>Organisational Structure</title>
+      <link>/posts/organisational-structure/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/organisational-structure/</guid>
+      <description>These are the people that are in charge of you, in one way or another. You should find out who each one of them is.
+ Supervisor: (possibly together with a co-supervisor) is the person who will overview your research, and who you should go to for any research-related issues. Examiner: Is the person who will act as your examiner during your PhD; they evaluate your progress and decide if a course you want to attend will count towards your PhD credits, so ask them about that before choosing to join a course.</description>
+    </item>
+    
+    <item>
       <title>Council Statutes</title>
       <link>/posts/council-docs/council-statutes/</link>
       <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
@@ -53,12 +100,58 @@ Section 1: General principles  The Computer Science and Engineering PhD Student 
     </item>
     
     <item>
-      <title>News</title>
-      <link>/news/</link>
-      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <title>Council Documents</title>
+      <link>/posts/council-documents/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>/news/</guid>
-      <description>New PhD Student Council representative for 2020-2021During February we had a fill-in election, and Mazen Mohammad joined the council for the remainder of this lective year. New PhD Student Council for 2020-2021The election held during August led to the new council formed by Sólrún, Linda, Irene, and Roc. CSE PhD Ombudsman Election ResultsMatthías Páll Gissurarson is the new local Ombudsman for the PhD students at CSE Join the Buddy System!</description>
+      <guid>/posts/council-documents/</guid>
+      <description>Council StatutesActivity PlanOmbudsman Statutes</description>
+    </item>
+    
+    <item>
+      <title>Follow-Up Meetings</title>
+      <link>/posts/follow-up-meetings/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/follow-up-meetings/</guid>
+      <description>What are Follow-up Meetings? TODO
+Scheduling You should have at least one follow-up meeting every year, the first one being about 6 months after you start working at Chalmers. If things happen that might prevent you from following the plan set in your most recent follow-up meeting, such as sick leave or parental leave, you should schedule a new meeting as soon as possible to discuss what changes are needed.</description>
+    </item>
+    
+    <item>
+      <title>GTS - Generic &amp; Transferable Skills</title>
+      <link>/posts/gts/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/gts/</guid>
+      <description>During your education you need to obtain several credits from GTS courses, some of which are mandatory.
+List of GTS courses https://intranet.chalmers.se/en/working-at-chalmers/employee/role-related-development/development-for-phd-students/
+List of mandatory and optional courses for Chalmers students https://intranet.chalmers.se/en/tools-support/doctoral-studies-support/courses/courses-and-activities-within-gts/
+List of mandatory courses for GU students https://medarbetarportalen.gu.se/internt-itufak/utbildning-pa-forskarniva/kurser/?languageId=100001&amp;amp;skipSSOCheck=true
+More information on GTS courses gathered by the Doctoral Students Guild at Chalmers: https://www.notion.so/Generic-and-Transferable-Skills-GTS-a554319dc8554789b284e3339a688bd1</description>
+    </item>
+    
+    <item>
+      <title>Licentiate Degree</title>
+      <link>/posts/licenciate/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/licenciate/</guid>
+      <description>About halfway through your PhD studies at Chalmers you are required to defend your Licentiate thesis. This is a formal presentation with your examiner and an external opponent, where you should present the work you have done up to that moment.
+The following document has information on how to prepare for the seminar. Note there&amp;rsquo;s specific guidelines for CSE, make sure to adhere to those too: https://intranet.chalmers.se/en/tools-support/doctoral-studies-support/licentiate/preparations-for-licentiate-seminars/
+To be eligible for the Licentiate degree you are required to have completed 30 credits, 9 of which need to be from GTS courses, several of which need to be specific courses, as well as N credits in non-GTS courses, for which you should discuss with your examiner in advance if they will be eligible for your education.</description>
+    </item>
+    
+    <item>
+      <title>Thesis LaTeX Template</title>
+      <link>/posts/thesis-template/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/thesis-template/</guid>
+      <description>We at the council have a github repository with a LaTeX template for you to use for your Licentiate or PhD thesis.
+You should double-check the requirements for your thesis and that the template matches them.
+If the requirements have been updated, we would appreciate very much if you could send a pull-request to fix the template.
+We will welcome any other improvements that you find it needs as pull-requests.</description>
     </item>
     
     <item>
@@ -67,14 +160,10 @@ Section 1: General principles  The Computer Science and Engineering PhD Student 
       <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/linksuseful/</guid>
-      <description>Some useful links Handbook for doctoral studies Procedure for licentiate Thesis, followup meetings and needed forms
-Doctoral Portal
-Intranet
+      <description>Some useful links Roles and Responsabilities
+Intranet Here you might be able to find most of the information you might need about anything in the PhD. The drawbacks are there&amp;rsquo;s also a lot of information that might not be relevant to you so things are sometimes difficult to find. Requires login.
 Welcome leaflet with a bunch of useful organizational information (also for non-PhDs)
-Licentiate degree (There are rules specific to CSE, make sure to follow those in addition to the basic ones described in the same page)
-Follow-up meetings
-GTS courses
-Insidan (old intranet, deprecated)</description>
+Licentiate degree (There are rules specific to CSE, make sure to follow those in addition to the basic ones described in the same page)</description>
     </item>
     
     <item>
@@ -101,36 +190,14 @@ Do not forget to keep your Personal Data page up-to-date (in particular if you m
     </item>
     
     <item>
-      <title>Software</title>
-      <link>/posts/software/</link>
+      <title>Software &amp; Hardware</title>
+      <link>/posts/software-hardware/</link>
       <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/software/</guid>
-      <description>Commercial Software Available Here you will find instructions to get programs such as several Affinity tools, Adobe tools, Matlab, Office, etc. https://it.portal.chalmers.se/itportal/GenAnst/SoftwareGeneral#anvisningar
-If you need other software, talk with your supervisor or with Technical Support (you can find them at the bottom of this page)
-Microsoft tools Microsoft On-The-Hub Some versions of Windows, MS Office Home/Professional, utitily software (antivirus), Parallels Desktop for Mac, and many others (The software offered might change).</description>
-    </item>
-    
-    <item>
-      <title>Ombudsman</title>
-      <link>/posts/ombudsman/</link>
-      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/ombudsman/</guid>
-      <description>CSE PhD Ombudsman: Matthías Páll Gissurarson (pallm [at] chalmers [dot] se) Matthías was elected in during May of 2020.
-About the Ombudsman Role Here you can find the official statute for the CSE PhD Ombudsman.
-Despite there being several different contacts that are there to help you, such as the Doktorandombud (DOMB), in agreement with the CSE Research School we re-introduce the position of the CSE PhD Ombudsman as an elected PhD student that has the local role to listen and help other PhD students by giving an objective point of view on difficult, or sometimes tedious, PhD related problems.</description>
-    </item>
-    
-    <item>
-      <title>Buddy System</title>
-      <link>/posts/buddysystem/</link>
-      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/buddysystem/</guid>
-      <description>We&amp;rsquo;re looking to expand our buddy pool with buddies from all divisions! This is your chance to improve a new PhD student’s experience, by helping them figure out everything you wish you had known when you started here!
-Do you have some wise advice or useful tips you wish someone had given you at the start of your PhD journey?
-This could be anything from questions about navigating department bureaucracy, advice on apartment hunting in Gothenburg, tips on socializing in a new city/country, etc.</description>
+      <guid>/posts/software-hardware/</guid>
+      <description>Internet Wireless access to eduroam There is an installer in eduroam website (even for Linux) that embedded the eduroam certificate.
+Manual setup  Login ID: CID@chalmers.se Anonymous ID: empty Password: CID password Authentication: MSCHAPv2 EAP type: PEAP Eduroam certificate is in eduroam.pem  Change password for CID / NOMAD Go to CDKS
+Email IMAP  imap.chalmers.se - port: 993 username : CID Auth method: CID password Connection: SSL/TLS // Note : Thunderbird test doesn&amp;rsquo;t work correctly.</description>
     </item>
     
     <item>
@@ -141,15 +208,6 @@ This could be anything from questions about navigating department bureaucracy, a
       <guid>/posts/benefits/</guid>
       <description>Health expense refund As a Chalmers employee you have the right to be refunded for up to 2000SEK/year for expenses related to health and wellness. This can be done through a portal called Benify. There you can directly buy discounted gym memberships, book massages, etc, making use of your wellness refund. You can also send in receipts and be reimbursed, see below:
 How to claim expenses and to get refunds  Go to insidan On the right-most column select Chalmers Plus in the menu under &amp;lsquo;E-tjanst&amp;rsquo;, clic visa Insert CID and CID-password Click on &amp;lsquo;wellness receipts&amp;rsquo; Follow instruction on how to register a receipt (useful instructions in english also under &amp;lsquo;How do I register my expenses?</description>
-    </item>
-    
-    <item>
-      <title>Email</title>
-      <link>/posts/email/</link>
-      <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/email/</guid>
-      <description>Setting up your Chalmers email account IMAP  imap.chalmers.se - port: 993 username : CID Auth method: CID password Connection: SSL/TLS // Note : Thunderbird test doesn&amp;rsquo;t work correctly.  SMTP  smtp.chalmers.se : 587 username : CID Auth method: NTLM (TLS also works) Connection: STARTTLS (if required)  iOS Detail setting from IT portal - Select Exchange account - On the first page, use &amp;lsquo;CID@chalmers.se&amp;rsquo; - Domain: NET - Server: webmail.</description>
     </item>
     
     <item>
@@ -174,24 +232,15 @@ Click on &amp;lsquo;Add a location or a room&amp;rsquo; and then &amp;lsquo;Add 
     </item>
     
     <item>
-      <title>Courses &amp; Certificates</title>
-      <link>/posts/exams/</link>
+      <title>Courses, Exams &amp; Certificates</title>
+      <link>/posts/courses-exams/</link>
       <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/exams/</guid>
-      <description>PhD-level Courses TODO: how to register and report credits for phd-level courses
-Exam Registration / Check registered credits  go to the Doctoral Portal click on &amp;ldquo;Login&amp;rdquo; (written in blue in the greyish submenu bar on the top of the page) enter your cid + password click on: &amp;ldquo;Examination, sign-up/cancel sign up&amp;rdquo; / &amp;ldquo;Create transcript of records, postgraduate studies&amp;rdquo;  (important : make sure you are in the Doctoral Portal!</description>
-    </item>
-    
-    <item>
-      <title>Internet</title>
-      <link>/posts/internet/</link>
-      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/internet/</guid>
-      <description>Wireless access to eduroam There is an installer in eduroam website (even for Linux) that embedded the eduroam certificate.
-Manual setup  Login ID: CID@chalmers.se Anonymous ID: empty Password: CID password Authentication: MSCHAPv2 EAP type: PEAP Eduroam certificate is in eduroam.pem  Change password for CID / NOMAD Go toCDKS
-Home directory of remote servers You have a limited (but large) space at Chalmers servers just for you! - enter in your Termial - type &amp;lsquo;ssh -X CID@remote12.</description>
+      <guid>/posts/courses-exams/</guid>
+      <description>A list of links to register/view exams and courses can be found at https://student.portal.chalmers.se/en/chalmersstudies/Pages/services.aspx.
+Exam Registration / Check registered credits To be able to attend the exam for a course, you need to register for it. There&amp;rsquo;s more information on how to do that at https://intranet.chalmers.se/en/tools-support/doctoral-studies-support/courses/subject-courses-for-phd-students/
+Course Schedules, room info In Time-edit (https://cloud.timeedit.net/chalmers/web/) you can find information on when and where a course is given at Chalmers.
+List of Passed Courses and Certificate Here you can get the list of credits for the courses you have completed once they are reported to the system by the examiner https://www.</description>
     </item>
     
     <item>
@@ -207,21 +256,9 @@ E-book, articles: 1-3 days</description>
     </item>
     
     <item>
-      <title>Printers</title>
-      <link>/posts/print/</link>
-      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/print/</guid>
-      <description>Printer Web interface to printers You can use web interface to see nearby printers, download drivers or directly send pdf, txt files to be printed.
-Setup on linux with SMB (tested on Ubuntu 18.x, 16.x, 14.x, 12.x) See instructions here.
-Setup on Windows Printing via ipp/kerberos: Copy krb5.conf in this repository to /etc/krb5.conf and run:
-test -d $HOME/.cups || mkdir $HOME/.cups cat &amp;lt;&amp;lt;EOF &amp;gt;$HOME/.cups/client.conf ServerName print.chalmers.se GSSServiceName HTTP EOF  In older versions of CUPS, you may have to add those lines to the system-wide configuration file in /etc/cups/client.</description>
-    </item>
-    
-    <item>
-      <title>Worker Union</title>
+      <title></title>
       <link>/posts/union/</link>
-      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/posts/union/</guid>
       <description>Union Sign up and start paying for Akademikernas a-kassa at least 12 months before graduation, so you can receive benefits if you have some months without income before your next employment starts.
