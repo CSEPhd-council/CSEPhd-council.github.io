@@ -76,7 +76,7 @@ Action We plan to properly represent the PhD students in these different committ
       
       <guid>/posts/first-steps/</guid>
       <description>The first days when you start your PhD in an unknown place can be a bit disorienting or overwhelming, so here is a (possibly incomplete) checklist of things you should keep in mind for your first days around. (If you find out there&amp;rsquo;s information that should be included or updated, please send us a mail!)
-Also, if you come from another country you should also read the New in Sweden page to get an idea of things you should take care of when you arrive.</description>
+Also, we very much recommend, specially if you are coming from another country, that you also read the PhD Student Guide made by DS to get an idea of all the things you might need before you start working.</description>
     </item>
     
     <item>
@@ -160,10 +160,10 @@ We will welcome any other improvements that you find it needs as pull-requests.<
       <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/linksuseful/</guid>
-      <description>Some useful links Roles and Responsabilities
+      <description>Some useful links Unofficial PhD Student Guide by DS
+Roles and Responsabilities
 Intranet Here you might be able to find most of the information you might need about anything in the PhD. The drawbacks are there&amp;rsquo;s also a lot of information that might not be relevant to you so things are sometimes difficult to find. Requires login.
-Welcome leaflet with a bunch of useful organizational information (also for non-PhDs)
-Licentiate degree (There are rules specific to CSE, make sure to follow those in addition to the basic ones described in the same page)</description>
+Welcome leaflet with a bunch of useful organizational information (also for non-PhDs)</description>
     </item>
     
     <item>
@@ -206,8 +206,9 @@ Email IMAP  imap.chalmers.se - port: 993 username : CID Auth method: CID passwor
       <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/posts/benefits/</guid>
-      <description>Health expense refund As a Chalmers employee you have the right to be refunded for up to 2000SEK/year for expenses related to health and wellness. This can be done through a portal called Benify. There you can directly buy discounted gym memberships, book massages, etc, making use of your wellness refund. You can also send in receipts and be reimbursed, see below:
-How to claim expenses and to get refunds  Go to insidan On the right-most column select Chalmers Plus in the menu under &amp;lsquo;E-tjanst&amp;rsquo;, clic visa Insert CID and CID-password Click on &amp;lsquo;wellness receipts&amp;rsquo; Follow instruction on how to register a receipt (useful instructions in english also under &amp;lsquo;How do I register my expenses?</description>
+      <description>Health expense refund As a Chalmers employee you have the right to be refunded for up to 2000SEK/year for expenses related to health and wellness.
+Find more information at the intranet https://intranet.chalmers.se/en/working-at-chalmers/working-environment-health/health/wellness/
+Mecenat The Mecenat card from DS gives you access to more student discounts (than just the DS card). Very useful, keep track of sales with the app! (Apple, Swebus, Comviq, Tele2, Tre, SF Cinema, Adlibris, &amp;hellip;)</description>
     </item>
     
     <item>
